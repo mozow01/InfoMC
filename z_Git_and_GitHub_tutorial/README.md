@@ -49,7 +49,7 @@ Ez egy fancy oldat csinál, ha a git_tutorial könyvtárba még a Traditional.cs
 
 Én most injkább a VS Code-ban nyitom meg a html file-t és ott nyitok egy Terminált, majd elnavigálok ugyanebbe a könyvtárba:
 
-<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_1.png" width=600>
+<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_1.png" width=800>
 
 Ebben a könyvtában még egy harmadik file is van, ami a CCC_2.v, ami direkt azért van ott, hogy ilyen hiba is legyen :)
 
@@ -62,6 +62,16 @@ Még néhány fontos git parancs:
 ````
 Az első inicializálja a git-t abban a könyvtárban, ahol vagyunk, elhelyez egy /.git rejtett file-t a git_tutorialban. Ez fotnos! A második megnézni, hogy is állunk. A listán ez szerepel:
 
-<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_2.png" width=600>
+<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_2.png" width=800>
+
+Tehát az összes file "nem követett" státuszban van. Pedig követni szeretnénk őket, hogy lássuk a változásokat. Ehhez parancs, ami követni kezdi a file-jainkat ez:
+
+
+````terminal
+...:~/Dokumentumok/git_tutorial$ git add git_tutorial.html
+...:~/Dokumentumok/git_tutorial$ git add Traditional.css
+````
+Na, most már követve van, ezt a statussal meg is nézhetjük:
+<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_3.png" width=800>
 
 
