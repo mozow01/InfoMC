@@ -43,6 +43,6 @@ Ez egy fancy oldat csinál, ha a git_tutorial könyvtárba még a Traditional.cs
 
 Én most injkább a VS Code-ban nyitom meg a html file-t és ott nyitok egy Terminált, majd elnavigálok ugyanebbe a könyvtárba:
 
-<img src="z_Git_and_GitHub_tutorial/git_1.png" width=200>
+<img src="https://github.com/mozow01/InfoMC/blob/366430716d8b7245270858791ecf224fee9bca39/z_Git_and_GitHub_tutorial/git_1.png" width=200>
 
 
