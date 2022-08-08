@@ -74,4 +74,10 @@ Tehát az összes file "nem követett" státuszban van. Pedig követni szeretné
 Na, most már követve van, ezt a statussal meg is nézhetjük:
 <img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_3.png" width=800>
 
+Most pedig kijelöljük az első verzióját vagy elkövetését a file-oknak. Változni fognak, ez nem is kérdéses és amikor változnak, abban ez egy első változat lesz.
 
+````terminal
+...:~/Dokumentumok/git_tutorial$ git commit -m "Elso elkovetes"
+````
+
+-m azt jelenti, hogy egy ózenetet hagyunk a git-nek erről az elkövetésről: ez lesz az "első elkövetett" komitelés.
