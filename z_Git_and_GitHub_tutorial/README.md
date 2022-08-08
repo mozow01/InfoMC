@@ -41,3 +41,8 @@ listázza ki annak a könyvtárnak a tartalmát, ahogy vagyunk. Nekem a Dokument
 ````
 Ez egy fancy oldat csinál, ha a git_tutorial könyvtárba még a Traditional.css fájlt is bemásoljuk és css fájlra mutató linket beállítjuk, hogy ebbe a könyvtárra mutasson.
 
+Én most injkább a VS Code-ban nyitom meg a html file-t és ott nyitok egy Terminált, majd elnavigálok ugyanebbe a könyvtárba:
+
+<img src="z_Git_and_GitHub_tutorial/git_1.png" width=200>
+
+
