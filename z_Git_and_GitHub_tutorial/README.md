@@ -12,8 +12,32 @@ Ha fentvan a gépen, először érdemes parancssorból használni (Win-on: paran
 
 Nyilván van egy programunk, aminek a változását követni szeretnénk és meg akarjuk osztani a törpiekkel. Érdemes ezt a programpot** egy külön könyvtárba** másolni. Ha még nincs meg a program, írjunk egyet VS Code-ban vagy egyszerűen nyissunk egy jegyzettömböt és készítsünk az új konyvtárban egy txt file-t. Amikor már érteni fogunk a git-hez felhasználói szinten akkor nyilván nem fogjuk ezzel kezdeni a munkát.
 
-A Terminál vagy Paranccsor megnyitásakor a Home könyvtárban leszünk. A git működtetéséhez abba a könyvtárba kell navigálnunk, amiben a file-jaink vannak. 
+A Terminál vagy Paranccsor megnyitásakor a Home könyvtárban leszünk. A git működtetéséhez abba a könyvtárba kell navigálnunk, amiben a file-jaink vannak. ````...:~$```` jel fogja a jelezni, hogy a terminál parancssorába írjuk a parancsokat.
 
 ````terminal
-$ ls
+...:~$ ls
 ````
+
+listázza ki annak a könyvtárnak a tartalmát, ahogy vagyunk. Nekem a Dokumentumok könyvtárba kell eljutom mert ott nyitok az Ubuntu filekezelőjével egy ````git_tutorial```` könyvtárat és a ````gedit```` nevű text editorral egy html file-t, aminek ez a tartalma:
+
+````html
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="Zoltan Molnar">
+    <title>Zoltan Molnar</title>
+    <link rel="stylesheet" href="file:///home/mozo/Dokumentumok/git_tutorial/Traditional.css" type="text/css">
+  </head>
+
+  <body>
+
+<dt>Git tutorial</dt>
+<br>
+<br>
+<p>Első lépések</p>
+</body>
+</html>
+````
+Ez egy fancy oldat csinál, ha a git_tutorial könyvtárba még a Traditional.css fájlt is bemásoljuk és css fájlra mutató linket beállítjuk, hogy ebbe a könyvtárra mutasson.
+
