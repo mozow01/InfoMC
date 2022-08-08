@@ -18,7 +18,13 @@ A Terminál vagy Paranccsor megnyitásakor a Home könyvtárban leszünk. A git 
 ...:~$ ls
 ````
 
-listázza ki annak a könyvtárnak a tartalmát, ahogy vagyunk. Nekem a Dokumentumok könyvtárba kell eljutom mert ott nyitok az Ubuntu filekezelőjével egy ````git_tutorial```` könyvtárat és a ````gedit```` nevű text editorral egy html file-t, aminek ez a tartalma:
+listázza ki annak a könyvtárnak a tartalmát, ahogy vagyunk. Nekem majd a Dokumentumok könyvtárba kell eljutom mert ott nyitok az Ubuntu filekezelőjével egy ````git_tutorial```` könyvtárat és a ````gedit```` nevű text editorral egy html file-t. Ennek megkereséséhez a cd (change directory) parancsokat osztogatom ki:
+
+````terminal
+...:~$ cd Dokumetumok
+...:~$ cd git_tutorial
+````
+itt meg is találom a git_tutorial.html file-t, aminek ez a tartalma:
 
 ````html
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
