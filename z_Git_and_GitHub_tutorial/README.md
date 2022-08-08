@@ -4,7 +4,7 @@ A Git („Global Information Tracker” -- globális információkövető rendsz
 
 ## Letöltés
 
-Ez szokás szerint egyedi: rá kell keresni hogyan kell csinálni, Linuxon más, mint Win-en. ([https://gitforwindows.org/], [https://git-scm.com/download/mac], Ubuntun 20-tól alapból van).
+Ez szokás szerint egyedi: rá kell keresni hogyan kell csinálni, Linuxon más, mint Win-en. (https://gitforwindows.org/, https://git-scm.com/download/mac, Ubuntun 20-tól alapból van).
 
 ## Első használat
 
@@ -50,3 +50,18 @@ Ez egy fancy oldat csinál, ha a git_tutorial könyvtárba még a Traditional.cs
 Én most injkább a VS Code-ban nyitom meg a html file-t és ott nyitok egy Terminált, majd elnavigálok ugyanebbe a könyvtárba:
 
 <img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_1.png" width=600>
+
+Ebben a könyvtában még egy harmadik file is van, ami a CCC_2.v, ami direkt azért van ott, hogy ilyen hiba is legyen :)
+
+Még néhány fontos git parancs:
+
+````terminal
+...:~/Dokumentumok/git_tutorial$ git init
+...:~/Dokumentumok/git_tutorial$ git status
+
+````
+Az első inicializálja a git-t abban a könyvtárban, ahol vagyunk, elhelyez egy /.git rejtett file-t a git_tutorialban. Ez fotnos! A második megnézni, hogy is állunk. A listán ez szerepel:
+
+<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_2.png" width=600>
+
+
