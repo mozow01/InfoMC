@@ -88,7 +88,7 @@ Most pedig kijelöljük az első verzióját vagy elkövetését a file-oknak. V
 ...:~/Dokumentumok/git_tutorial$ git commit -m "Elso elkovetes"
 ````
 
--m azt jelenti, hogy egy üzenetet hagyunk a git-nek erről az elkövetésről: ez lesz az "első elkövetett" komitelés.
+-m azt jelenti, hogy egy üzenetet hagyunk a git-nek erről az elkövetésről: ez lesz az "első elkövetett" komitelés. Ha most a html file-on változtatunk, akkor a status megváltozik és kezdhetjük elölről az add, commit kört.
 
 ### git log, git log --all, git log --all --graph, q
 
