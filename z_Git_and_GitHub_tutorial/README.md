@@ -10,7 +10,7 @@ Ez szokás szerint egyedi: rá kell keresni hogyan kell csinálni, Linuxon más,
 
 Ha fentvan a gépen, először érdemes parancssorból használni (Win-on: parancssor, Linuxon: terminal). A VS Code képes terminált nyitni, azt is érdemes használni!
 
-Nyilván van egy programunk, aminek a változását követni szeretnénk és meg akarjuk osztani a törpiekkel. Érdemes ezt a programpot** egy külön könyvtárba** másolni. Ha még nincs meg a program, írjunk egyet VS Code-ban vagy egyszerűen nyissunk egy jegyzettömböt és készítsünk az új konyvtárban egy txt file-t. Amikor már érteni fogunk a git-hez felhasználói szinten akkor nyilván nem fogjuk ezzel kezdeni a munkát.
+Nyilván van egy programunk, aminek a változását követni szeretnénk és meg akarjuk osztani a törpiekkel. Érdemes ezt a programot** egy külön könyvtárba** másolni. Ha még nincs meg a program, írjunk egyet VS Code-ban vagy egyszerűen nyissunk egy jegyzettömböt és készítsünk az új konyvtárban egy txt file-t. Amikor már érteni fogunk a git-hez felhasználói szinten akkor nyilván nem fogjuk ezzel kezdeni a munkát.
 
 ### ls, cd, cd ~
 
@@ -92,6 +92,6 @@ Most pedig kijelöljük az első verzióját vagy elkövetését a file-oknak. V
 
 ### git log, git log --all, git log --all --graph, q
 
-Most a git bejegyzéseket fog tenni a konzolra (log azaz bejegyzés a hajónaplóba). Ellenőrizhetjük, hogy a verziónk bekerült a verziótörténetbe ````git log```` vagy ```git log --all```` ill.  ````git log --all --graph```` látható lesz az üzenetünk is, amikor egy verziót elkészítettünk. Ebből a munkamenetből q-val tudunk kilépni (quit). 
+Most a git bejegyzéseket fog tenni a konzolra (log azaz bejegyzés a hajónaplóba). Ellenőrizhetjük, hogy a verziónk bekerült a verziótörténetbe ````git log```` vagy ````git log --all```` ill.  ````git log --all --graph```` látható lesz az üzenetünk is, amikor egy verziót elkészítettünk. Ebből a munkamenetből q-val tudunk kilépni (quit). 
 
 
