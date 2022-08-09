@@ -6,11 +6,13 @@ A Git („Global Information Tracker” -- globális információkövető rendsz
 
 Ez szokás szerint egyedi: rá kell keresni hogyan kell csinálni, Linuxon más, mint Win-en. (https://gitforwindows.org/, https://git-scm.com/download/mac, Ubuntun 20-tól alapból van).
 
-## Első használat
+## Első használat, navigáció
 
 Ha fentvan a gépen, először érdemes parancssorból használni (Win-on: parancssor, Linuxon: terminal). A VS Code képes terminált nyitni, azt is érdemes használni!
 
 Nyilván van egy programunk, aminek a változását követni szeretnénk és meg akarjuk osztani a törpiekkel. Érdemes ezt a programpot** egy külön könyvtárba** másolni. Ha még nincs meg a program, írjunk egyet VS Code-ban vagy egyszerűen nyissunk egy jegyzettömböt és készítsünk az új konyvtárban egy txt file-t. Amikor már érteni fogunk a git-hez felhasználói szinten akkor nyilván nem fogjuk ezzel kezdeni a munkát.
+
+### ls, cd, cd ~
 
 A Terminál vagy Paranccsor megnyitásakor a Home könyvtárban leszünk. A git működtetéséhez abba a könyvtárba kell navigálnunk, amiben a file-jaink vannak. ````...:~$```` jel fogja a jelezni, hogy a terminál parancssorába írjuk a parancsokat.
 
@@ -53,7 +55,9 @@ Ez egy fancy oldat csinál, ha a git_tutorial könyvtárba még a Traditional.cs
 
 Ebben a könyvtában még egy harmadik file is van, ami a CCC_2.v, ami direkt azért van ott, hogy ilyen hiba is legyen :)
 
-Még néhány fontos git parancs:
+### git init, git status, git add file.ext, git add .
+
+Néhány fontos git parancs:
 
 ````terminal
 ...:~/Dokumentumok/git_tutorial$ git init
@@ -74,10 +78,12 @@ Tehát az összes file "nem követett" státuszban van. Pedig követni szeretné
 Na, most már követve van, ezt a statussal meg is nézhetjük:
 <img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_3.png" width=800>
 
+### Verziók készítése, git commit -m "üzenet"
+
 Most pedig kijelöljük az első verzióját vagy elkövetését a file-oknak. Változni fognak, ez nem is kérdéses és amikor változnak, abban ez egy első változat lesz.
 
 ````terminal
 ...:~/Dokumentumok/git_tutorial$ git commit -m "Elso elkovetes"
 ````
 
--m azt jelenti, hogy egy ózenetet hagyunk a git-nek erről az elkövetésről: ez lesz az "első elkövetett" komitelés.
+-m azt jelenti, hogy egy üzenetet hagyunk a git-nek erről az elkövetésről: ez lesz az "első elkövetett" komitelés.
