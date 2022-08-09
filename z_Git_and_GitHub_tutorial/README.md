@@ -78,6 +78,8 @@ Tehát az összes file "nem követett" státuszban van. Pedig követni szeretné
 Na, most már követve van, ezt a statussal meg is nézhetjük:
 <img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_3.png" width=800>
 
+amitnek a követésére utasítottuk a git-et, az zöldre vált, a többi marad piros. Lehet könyvtárat is követni, lehet mindent követni egy könyvtárban a ````git add .```` paranccsal (pont előtt a szóköz kell). 
+
 ### Verziók készítése, git commit -m "üzenet"
 
 Most pedig kijelöljük az első verzióját vagy elkövetését a file-oknak. Változni fognak, ez nem is kérdéses és amikor változnak, abban ez egy első változat lesz.
