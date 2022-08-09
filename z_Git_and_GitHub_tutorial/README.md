@@ -89,3 +89,9 @@ Most pedig kijelöljük az első verzióját vagy elkövetését a file-oknak. V
 ````
 
 -m azt jelenti, hogy egy üzenetet hagyunk a git-nek erről az elkövetésről: ez lesz az "első elkövetett" komitelés.
+
+### git log, git log --all, git log --all --graph, q
+
+Most a git bejegyzéseket fog tenni a konzolra (log azaz bejegyzés a hajónaplóba). Ellenőrizhetjük, hogy a verziónk bekerült a verziótörténetbe ````git log```` vagy ```git log --all```` ill.  ````git log --all --graph```` látható lesz az üzenetünk is, amikor egy verziót elkészítettünk. Ebből a munkamenetből q-val tudunk kilépni (quit). 
+
+
