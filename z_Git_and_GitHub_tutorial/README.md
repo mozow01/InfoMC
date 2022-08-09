@@ -5,3 +5,5 @@
 [Ez pedig a GitHub tutorial](https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/GitHub.md)
 
 [GitHub markdown jelölőnyelv parancsai](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Ez a youtube videó pedig aranyat ér](https://youtu.be/hrTQipWp6co)
