@@ -9,11 +9,11 @@
 
 Szóval készítsünk egy GitHub repót (new fül és mindenféle opciókat tetszés szerint kitölthetünk, pl. tegyen-e bele Readme.md-t (ez javasolt), vagy licensz nyilatkozatot (ez se árt), vagy )
 
-Navigáljunk abba a könyvtárba, ahol el szeretnénk helyezni a GitHub-ról "letöltött" repót. A letölteni nem jó kifejezés itt ténnyleg klónozásról vab szó és innentől kezdve kapcsolatban leszünk vele, azaz feltölthetjük (feltolhatjuk) az új verziónkat vagy frissíthetjük az ott levő állapotot (pull).
+Nyissunk egy terminált és navigáljunk abba a könyvtárba, ahol el szeretnénk helyezni a GitHub-ról "letöltött" repót. A letölteni nem jó kifejezés itt ténnyleg klónozásról vab szó és innentől kezdve kapcsolatban leszünk vele, azaz feltölthetjük (feltolhatjuk) az új verziónkat vagy frissíthetjük az ott levő állapotot (pull).
 
 Ha megvan a repónk, akkor keressük meg a zölden látható Code ikont és nyomjunk rá. Állítsuk HTTPS kommunikációs protokollra és másoljuk ki a github repó linkjét.
 
-<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/prof_sett_1.gif" height=400>
+<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/clone_1.gif" height=400>
 
 Ezt kell a git clone parancs után bemásolni.
 
@@ -22,5 +22,4 @@ git clone https://github.com/mozow01/git_tutotial.git
 ````
 
 A git ezután egy user nevet (málam mozow01) és egy jelszót kér. No, most ezzel a jelszóval lehet, hogy nem lesz elégedett a git, ezért ilyenkor a különlegesen szupertitkos és szent Personal Access Token-t kell bemásolni a jelszó helyére. 
-
 
