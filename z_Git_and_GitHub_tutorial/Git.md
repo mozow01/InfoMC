@@ -92,7 +92,9 @@ Most pedig kijelöljük az első verzióját vagy elkövetését a file-oknak. V
 
 ### git log, git log --all, git log --all --graph, q
 
-Most a git bejegyzéseket fog tenni a konzolra (log azaz bejegyzés a hajónaplóba). Ellenőrizhetjük, hogy a verziónk bekerült a verziótörténetbe ````git log```` vagy ````git log --all```` ill.  ````git log --all --graph```` látható lesz az üzenetünk is, amikor egy verziót elkészítettünk. Ebből a munkamenetből q-val tudunk kilépni (quit). 
+Most a git bejegyzéseket fog tenni a konzolra (log azaz bejegyzés a hajónaplóba). Ellenőrizhetjük, hogy a verziónk bekerült a verziótörténetbe ````git log```` vagy ````git log --all```` ill.  ````git log --all --graph```` . log kilistázza az éppen aktuális ágat a verziószerkezetben. log --all az összes ágat listázza ki, log --all --graph faként vizualizálja a verziószerkezetet. Ebből a munkamenetből q-val tudunk kilépni (quit).
+
+kövi: [GitHub tutorial](https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/GitHub.md)
 
 
 
