@@ -13,13 +13,27 @@ Nyissunk egy terminált és navigáljunk abba a könyvtárba, ahol el szeretnén
 
 Ha megvan a repónk, akkor keressük meg a zölden látható Code ikont és nyomjunk rá. Állítsuk HTTPS kommunikációs protokollra és másoljuk ki a github repó linkjét.
 
-<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/clone_1.gif" height=400>
+<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/clone_1.gif" height=300>
 
 Ezt kell a git clone parancs után bemásolni.
 
 ````terminal
-git clone https://github.com/mozow01/git_tutotial.git
+git clone https://github.com/mozow01/git_tutorial.git
 ````
 
 A git ezután egy user nevet (málam mozow01) és egy jelszót kér. No, most ezzel a jelszóval lehet, hogy nem lesz elégedett a git, ezért ilyenkor a különlegesen szupertitkos és szent Personal Access Token-t kell bemásolni a jelszó helyére. 
+
+## git remote -v
+
+Érdemes megnézni, hogy ez a gépen lévő repó honnan jön. cd-zzünk hát bele a klónozott könyvtárba és kérdezzünk rá a ,,távrepó'' adataira:
+
+````terminal
+git remote -v
+````
+
+És valóban, most láthatjuk is a következő két git parancsot elrejtve
+
+## git fetch, git push
+
+
 
