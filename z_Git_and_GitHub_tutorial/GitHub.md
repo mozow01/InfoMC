@@ -33,7 +33,7 @@ git remote -v
 
 És valóban, most láthatjuk is a következő két git parancsot elrejtve
 
-## git fetch, git push
+## git push
 
 
 
