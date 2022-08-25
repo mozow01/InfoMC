@@ -1,6 +1,6 @@
 # Git
 
-A Git („Global Information Tracker” -- globális információkövető rendszer) egy olyan szoftver, amely bármilyen fájlkészletben bekövetkezett változásokat követ nyomon. Általában a szoftverfejlesztés során forráskódokat közösen fejlesztő programozók együttes munkájának kötevésére, koordinálására használják. Linus Torvalds fejlesztete ki, akinek a neve ismerősen csenghet a Linux operációs rendszer atyjaként. Persze Win-re és MacOS-re is van.
+A Git („Global Information Tracker” -- globális információkövető rendszer) egy olyan szoftver, amely bármilyen fájlkészletben bekövetkezett változásokat nyomon követ. Általában a szoftverfejlesztés során forráskódokat közösen fejlesztő programozók együttes munkájának követésére, koordinálására használják. Linus Torvalds fejlesztete ki, akinek a neve ismerősen csenghet a Linux operációs rendszer atyjaként. Persze Win-re és MacOS-re is van.
 
 ## Letöltés
 
@@ -8,19 +8,19 @@ Ez szokás szerint egyedi: rá kell keresni hogyan kell csinálni, Linuxon más,
 
 ## Első használat, navigáció
 
-Ha fentvan a gépen, először érdemes parancssorból használni (Win-on: parancssor, Linuxon: terminal). A VS Code képes terminált nyitni, azt is érdemes használni!
+Ha fent van a gépen, először érdemes parancssorból használni (Win-on: parancssor, Linuxon: terminal). A VS Code képes terminált nyitni, azt is érdemes használni!
 
-Nyilván van egy programunk, aminek a változását követni szeretnénk és meg akarjuk osztani a törpiekkel. Érdemes ezt a programot** egy külön könyvtárba** másolni. Ha még nincs meg a program, írjunk egyet VS Code-ban vagy egyszerűen nyissunk egy jegyzettömböt és készítsünk az új konyvtárban egy txt file-t. Amikor már érteni fogunk a git-hez felhasználói szinten akkor nyilván nem fogjuk ezzel kezdeni a munkát.
+Nyilván van egy programunk, aminek a változását követni szeretnénk és meg akarjuk osztani a törpiekkel. Érdemes ezt a programot** egy külön könyvtárba** másolni. Ha még nincs meg a program, írjunk egyet VS Code-ban, vagy egyszerűen nyissunk egy jegyzettömböt és készítsünk az új könyvtárban egy txt file-t. Amikor már érteni fogunk a Git-hez felhasználói szinten, akkor nyilván nem fogjuk ezzel kezdeni a munkát.
 
 ### ls, cd, cd ~
 
-A Terminál vagy Paranccsor megnyitásakor a Home könyvtárban leszünk. A git működtetéséhez abba a könyvtárba kell navigálnunk, amiben a file-jaink vannak. ````...:~$```` jel fogja a jelezni, hogy a terminál parancssorába írjuk a parancsokat.
+A Terminál vagy Parancssor megnyitásakor a Home könyvtárban leszünk. A Git működtetéséhez abba a könyvtárba kell navigálnunk, amiben a file-jaink vannak. ````...:~$```` jel fogja a jelezni, hogy a terminál parancssorába írjuk a parancsokat.
 
 ````terminal
 ...:~$ ls
 ````
 
-listázza ki annak a könyvtárnak a tartalmát, ahogy vagyunk. Nekem majd a Dokumentumok könyvtárba kell eljutom mert ott nyitok az Ubuntu filekezelőjével egy ````git_tutorial```` könyvtárat és a ````gedit```` nevű text editorral egy html file-t. Ennek megkereséséhez a cd (change directory) parancsokat osztogatom ki:
+listázza ki annak a könyvtárnak a tartalmát, ahol vagyunk. Nekem majd a Dokumentumok könyvtárba kell eljutnom, mert ott nyitok az Ubuntu filekezelőjével egy ````git_tutorial```` könyvtárat és a ````gedit```` nevű text editorral egy html file-t. Ennek megkereséséhez a cd (change directory) parancsokat osztogatom ki:
 
 ````terminal
 ...:~$ cd Dokumetumok
@@ -47,28 +47,28 @@ itt meg is találom a git_tutorial.html file-t, aminek ez a tartalma:
 </body>
 </html>
 ````
-Ez egy fancy oldat csinál, ha a git_tutorial könyvtárba még a Traditional.css fájlt is bemásoljuk és css fájlra mutató linket beállítjuk, hogy ebbe a könyvtárra mutasson.
+Ez egy fancy oldalt csinál, ha a git_tutorial könyvtárba még a Traditional.css fájlt is bemásoljuk és css file-ra mutató linket beállítjuk, hogy ebbe a könyvtárba mutasson.
 
-Én most injkább a VS Code-ban nyitom meg a html file-t és ott nyitok egy Terminált, majd elnavigálok ugyanebbe a könyvtárba:
+Én most inkább a VS Code-ban nyitom meg a html file-t és ott nyitok egy Terminált, majd elnavigálok ugyanebbe a könyvtárba:
 
 <img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_1.png" width=800>
 
-Ebben a könyvtában még egy harmadik file is van, ami a CCC_2.v, ami direkt azért van ott, hogy ilyen hiba is legyen :)
+Ebben a könyvtában még egy harmadik file is van, ami a CCC_2.v, ami direkt azért van ott, hogy ilyen hiba is legyen. :)
 
 ### git init, git status, git add file.ext, git add .
 
-Néhány fontos git parancs:
+Néhány fontos Git parancs:
 
 ````terminal
 ...:~/Dokumentumok/git_tutorial$ git init
 ...:~/Dokumentumok/git_tutorial$ git status
 
 ````
-Az első inicializálja a git-t abban a könyvtárban, ahol vagyunk, elhelyez egy /.git rejtett file-t a git_tutorialban. Ez fotnos! A második megnézni, hogy is állunk. A listán ez szerepel:
+Az első inicializálja a Git-et abban a könyvtárban, ahol vagyunk, elhelyez egy /.git rejtett file-t a git_tutorialban. Ez fontos! A második megnézni, hogy is állunk. A listán ez szerepel:
 
 <img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_2.png" width=800>
 
-Tehát az összes file "nem követett" státuszban van. Pedig követni szeretnénk őket, hogy lássuk a változásokat. Ehhez parancs, ami követni kezdi a file-jainkat ez:
+Tehát az összes file "nem követett" státuszban van. Pedig követni szeretnénk őket, hogy lássuk a változásokat. Ehhez a parancs, ami követni kezdi a file-jainkat ez:
 
 
 ````terminal
@@ -78,7 +78,7 @@ Tehát az összes file "nem követett" státuszban van. Pedig követni szeretné
 Na, most már követve van, ezt a statussal meg is nézhetjük:
 <img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/git_3.png" width=800>
 
-amitnek a követésére utasítottuk a git-et, az zöldre vált, a többi marad piros. Lehet könyvtárat is követni, lehet mindent követni egy könyvtárban a ````git add .```` paranccsal (pont előtt a szóköz kell). 
+aminek a követésére utasítottuk a Git-et, az zöldre vált, a többi marad piros. Lehet könyvtárat is követni, lehet mindent követni egy könyvtárban a ````git add .```` paranccsal (pont előtt a szóköz kell). 
 
 ### Verziók készítése, git commit -m "üzenet"
 
@@ -88,11 +88,11 @@ Most pedig kijelöljük az első verzióját vagy elkövetését a file-oknak. V
 ...:~/Dokumentumok/git_tutorial$ git commit -m "Elso elkovetes"
 ````
 
--m azt jelenti, hogy egy üzenetet hagyunk a git-nek erről az elkövetésről: ez lesz az "első elkövetett" komitelés. Ha most a html file-on változtatunk, akkor a status megváltozik és kezdhetjük elölről az add, commit kört.
+-m azt jelenti, hogy egy üzenetet hagyunk a Git-nek erről az elkövetésről: ez lesz az "első elkövetett" komitelés. Ha most a html file-on változtatunk, akkor a status megváltozik és kezdhetjük elölről az add, commit kört.
 
 ### git log, git log --all, git log --all --graph, q
 
-Most a git bejegyzéseket fog tenni a konzolra (log azaz bejegyzés a hajónaplóba). Ellenőrizhetjük, hogy a verziónk bekerült a verziótörténetbe ````git log```` vagy ````git log --all```` ill.  ````git log --all --graph```` . log kilistázza az éppen aktuális ágat a verziószerkezetben. log --all az összes ágat listázza ki, log --all --graph faként vizualizálja a verziószerkezetet. Ebből a munkamenetből q-val tudunk kilépni (quit).
+Most a Git bejegyzéseket fog tenni a konzolra (log azaz bejegyzés a hajónaplóba). Ellenőrizhetjük, hogy a verziónk bekerült a verziótörténetbe ````git log```` vagy ````git log --all```` ill.  ````git log --all --graph```` . log kilistázza az éppen aktuális ágat a verziószerkezetben. log --all az összes ágat listázza ki, log --all --graph faként vizualizálja a verziószerkezetet. Ebből a munkamenetből q-val tudunk kilépni (quit).
 
 kövi: [GitHub tutorial](https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/GitHub.md)
 
