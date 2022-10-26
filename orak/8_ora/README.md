@@ -2,7 +2,7 @@
 
 A [HTML](https://en.wikipedia.org/wiki/HTML) file-ok szerkesztésére a [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code) nevű fejlesztő környezetet fogjuk használni. Ez például azért jó, mert felismeri a HTML nyelvet (és a későbbi nyelveket is) és segít a hibajavításban. A VS Code telepítésével kapcsolatban sok helyen tájékozódhatunk, de itt van két youtube tutorial [egyik](https://youtu.be/31dRWcPcvhM), [másik](https://youtu.be/DqaTKBU9TZk).
 
-## HTML
+## HTML szerkezete
 
 A [w3schools](https://www.w3schools.com/html/default.asp)-on kezdhetjük a tanulást, érdemes végigböngészni a "tag"-eket [itt](https://www.w3schools.com/tags/default.asp).
 
@@ -31,6 +31,17 @@ Egy html file lényegében az alábbi strukturájú:
    
   </body>
 </html>
+````
+
+## Szöveg stílusa
+
+````html
+ <style> 
+    .sajatstilus {background-color: aquamarine;}
+ </style>
+...
+<div class="sajatstilus"><h1>Zsákos Frodó története</h1> </div>
+
 ````
 
 
