@@ -11,18 +11,16 @@ Egy html file lényegében az alábbi strukturájú:
 <html>
   <head>
     <meta charset="utf-8">
-    <title>jkjkljlkj</title>
-    <!-- https://www.magicpattern.design/tools/css-backgrounds -->
-    <link rel="stylesheet" href="myfirst.css">
-    <script src="myfirst.js"></script>
+    <title>Frodo Baggins' website</title>
+    <style></style>
+    <link>
+    <script></script>
   </head>
   <body>
-    
-    <div class="cim"><h1>Bilbo Baggins honlapja</h1> </div>
+   
+    <div><h1>Zsákos Frodó története</h1> </div>
 
-    <div class="kozepso"><h2>jhjkhgjgjh</h2> </div>
-    <div class="kozepso"><h2>jhjkkjkljklhkjhj</h2> </div>
-
+    <!-- ide kommenteket írhatunk -->
    
   </body>
 </html>
