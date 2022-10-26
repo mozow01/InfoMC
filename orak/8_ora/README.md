@@ -4,6 +4,8 @@ A [HTML](https://en.wikipedia.org/wiki/HTML) file-ok szerkesztésére a [Visual 
 
 ## HTML
 
+A [w3schools](https://www.w3schools.com/html/default.asp)-on kezdhetjük a tanulást, érdemes végigböngészni a "tag"-eket [itt](https://www.w3schools.com/tags/default.asp).
+
 Egy html file lényegében az alábbi strukturájú:
 
 ````html
@@ -11,16 +13,21 @@ Egy html file lényegében az alábbi strukturájú:
 <html>
   <head>
     <meta charset="utf-8">
+    <!-- ez az elem magáról az egész oldalról mond valamit  -->
     <title>Frodo Baggins' website</title>
+    <!-- ez nem jelenik meg alapból, de a keresőprogramok olvassák és felhasználják  -->
     <style></style>
+    <!-- jó bonyi stílusfile tud itt lenni, de akár be is lehet linkelni a css-t -->
     <link>
     <script></script>
+    <!-- jó bonyi program tud itt lenni, de akár be is lehet linkelni a js-t -->
   </head>
   <body>
    
     <div><h1>Zsákos Frodó története</h1> </div>
+    <!-- ez egy stílusosztály által megadott stílusú elem tud lenni -->
 
-    <!-- ide kommenteket írhatunk -->
+    <!-- tehát ez kommentel ki szövegeket HTML-ben -->
    
   </body>
 </html>
