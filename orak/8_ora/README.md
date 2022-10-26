@@ -56,7 +56,7 @@ opacity: 0.8;
 background-image:  linear-gradient(#444cf7 2px, transparent 2px), linear-gradient(90deg, #444cf7 2px, transparent 2px), linear-gradient(#444cf7 1px, transparent 1px), linear-gradient(90deg, #444cf7 1px, #ececf9 1px);
 background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
 background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
-```
+````
 Persze a css-nek is van nyelve és itt azt várjuk tőle, hogy a html testét szabja át:
 
 ````css
