@@ -76,7 +76,19 @@ Ennek beillesztése a html-be, a <style> helyett
 Szeretném a címet és a szöveget is szépen átformázni:
   
 ````css
-  
+.cim {color: #070718b0;
+        float: none;
+       /* padding: 100px; */
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 200px;}
+
+    .szoveg1 {
+        color: #070718b0;
+        float: none;
+         /* padding: 100px; */
+         margin-left: 200px;
+      }
 ````
   
 ````html
