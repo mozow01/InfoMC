@@ -67,10 +67,44 @@ background-image:  linear-gradient(#444cf7 2px, transparent 2px), linear-gradien
 background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
 background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;}
 ````
-Ennek beillesztése a html-be:
+Ennek beillesztése a html-be, a <style> helyett
 
 ````html
 <link rel="stylesheet" href="sajatstilus.css">
+````
+  
+Szeretném a címet és a szöveget is szépen átformázni:
+  
+````css
+  
+````
+  
+````html
+  
+    <div class="cim"><h1>Zsákos Frodó története</h1> </div>
+
+    <div class="szoveg1">
+        
+        Volt egyszer egy földbe vájt lyuk és abban élt egy babó.
+    
+    </div>
+````
+  
+Jobb lenne egy ábra is:
+  
+````html
+  <div class="szoveg1">
+        <table style="width:600px" >
+            <tr>
+            <td> <img src="babo_1.jpg" width="100" style="margin-right: 1cm;"> </td>
+            <td>Volt egyszer egy földbe vájt lyuk és abban élt egy babó. Volt egyszer egy földbe vájt lyuk, abban élt egy babó. 
+                Nem volt ez a lyuk rút, mocskos, nedves, teli féregmaradékkal, dohszaggal, sem száraz, csupasz, homokos lyuk, ahol 
+                se leülni, sem enni nemigen lehet: ez babólyuk volt, ami egyértelmű a kényelemmel. 
+            </td>
+              
+            </tr>
+          </table> 
+    </div>
 ````
 
 
