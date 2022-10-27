@@ -121,7 +121,15 @@ Jobb lenne egy ábra is:
 
 ## TypeScript
 
-A <script></script> tagek közé lehet illeszteni azokat a programokat, amik a html dokumentumban tudnak lefutni. Persze ezt is külön programokkal fogjuk elkészíteni. Olyan nyelvet választottunk, amit értelmesen lehet használni, azaz a változók rendesen be vannak típusokba osztva (ahogy a Matlabban), mosz et a TypeScript lesz, ami a JavaScript típusolt változata. 
+A <script></script> tagek közé lehet illeszteni azokat a programokat, amik a html dokumentumban tudnak lefutni. Persze ezt is külön programokkal fogjuk elkészíteni. Olyan nyelvet választottunk, amit értelmesen lehet használni, azaz a változók rendesen be vannak típusokba osztva (ahogy a Matlabban), mosz et a [TypeScript](https://www.typescriptlang.org/) lesz, ami a JavaScript típusolt változata. [Itt](https://youtu.be/L_iKniPK6K0) például találtok egy útmutatót. Kell hozzá node (ez a .js file-okat tudja futtatni, de a browser is megteszi) és node-typescript (ami a .ts dolgokat csinálja). A tsc TS kompájlerre lehet .ts-ből .js-t készíteni.  
+  
+Használata: 1. abban a könyvtárban, amiben dolgoztok:
+
+````terminal
+  tsc --init 
+````
+  
+a VS Code-ban tudtok egy terminált nyitni és odanavigálni ls és cd utasításokkal egy .ts file-t nyittok, majd a 
 
 
 
