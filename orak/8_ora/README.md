@@ -121,7 +121,9 @@ Jobb lenne egy ábra is:
 
 ## TypeScript
 
-A <script></script> tagek közé lehet illeszteni azokat a programokat, amik a html dokumentumban tudnak lefutni. Ezek a JavaScript programok. Persze ezt is külön programokkal fogjuk elkészíteni. Olyan nyelvet választottunk, amit értelmesen lehet használni, azaz a változók rendesen be vannak típusokba osztva (ahogy a Matlabban), mosz et a [TypeScript](https://www.typescriptlang.org/) lesz, ami a JavaScript típusolt változata. [Itt](https://youtu.be/L_iKniPK6K0) például találtok egy útmutatót. Kell hozzá node (ez a .js file-okat tudja futtatni, de a browser is megteszi) és node-typescript (ami a .ts dolgokat csinálja). A tsc TS kompájlerre lehet .ts-ből .js-t készíteni.  
+A <script></script> tagek közé lehet illeszteni azokat a programokat, amik a html dokumentumban tudnak lefutni. Ezek a _JavaScript_ programok. Persze ezt is külön programokkal fogjuk elkészíteni. Olyan nyelvet választottunk, amit értelmesen lehet használni, azaz a változók rendesen be vannak típusokba osztva (ahogy a Matlabban), most ezt a [TypeScript](https://www.typescriptlang.org/) lesz, ami a JavaScript típusolt változata. [Itt](https://youtu.be/L_iKniPK6K0) például találtok egy útmutatót. Alapból ezt az elv: JS + types = TS.
+  
+A működtetéséhez kell node (ez a .js file-okat tudja futtatni, de a browser is megteszi) és node-typescript (ami a .ts dolgokat csinálja). A tsc TS kompájlerrel lehet .ts-ből .js-t készíteni.  
   
 Használata: abban a könyvtárban, amiben dolgoztok, elpször készíteni kell egy az olyan file-t, ami a beállításokat tartalamzza, de ez automatikusan lesz:
 
@@ -139,6 +141,8 @@ a VS Code-ban tudtok egy terminált nyitni és odanavigálni ````ls````, ````cd 
 és ezt már a browser felismeri.
   
 ## Első n természetes szám összege háromféleképpen
+  
+Jól ismerjük a játék formáját -- először képlettel. Ebben a nyelvben mindig meg kell adni a változók [típusát](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html). A függvények írásmódja ugyanaz, mint a JavaScriptben
 
 ````typescript
 function elsoNKeplettel(input: number): number {
