@@ -119,6 +119,10 @@ Jobb lenne egy ábra is:
     </div>
 ````
 
+## TypeScipt
+
+
+
 
 
 
