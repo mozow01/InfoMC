@@ -129,16 +129,23 @@ Használata: abban a könyvtárban, amiben dolgoztok, elpször készíteni kell 
   tsc --init 
 ````
   
-a VS Code-ban tudtok egy terminált nyitni és odanavigálni ````ls````, ````cd konyvtar````, ````cd ..```` utasításokkal. Egy .ts file-t készítetek, majd oda írjátok be a programotokat. Végül kompájoljátok .js-ba:  
+Ha nem a File/Open Folder segítségével megnyitott könyvtárban dolgoztok, akkor a  VS Code-ban tudtok egy terminált nyitni és abba a könyvtárba navigálni, ahol dolgozni szeretnétek. Ekkor ````ls````, ````cd konyvtar````, ````cd ..```` utasításokat szoktuk használni. 
+
+````ls```` listázza a könyvtár tartalmát
+
+````cd konyvtar```` belép a könyvtár nevű könyvtárba
+
+````cd ..```` visszalép a főkönyvtárba
+
+Javasolt előre a könyvtárkezelőben egy könyvtárat készíteni, hogy az előbbi lépeketést ne kelljen megcsinálni. Nlam infomc_8 a könyvtár neve. Ha az Open Folderrel megnyitjátok a VS Code-ban a könyvtárat, akkor a Terminál eleve abban a könyvtárban nyílik meg, szóval nem lesz szükésgetek a navigálásra. De jó tudni, hogy megy. Készítetek egy .ts file-t, majd oda írjátok be a program tartalmát. Végül "kompájoljátok" .js-b3, ha ezt a parancsot adjátok ki: 
   
 ````terminal
   tsc programom.ts
-
 ````
   
-és ezt már a browser felismeri.
+és a .js-t már a browser felismeri.
   
-A .js file kódját a <script src="..."> tagben tudjuk jelezni:
+A .js file kódját a <script src="..."> tagben tudjuk betölteni a html-hez:
   
 ````html
 <script src="tipusok.js"></script>
@@ -146,20 +153,28 @@ A .js file kódját a <script src="..."> tagben tudjuk jelezni:
   
 ## Első n természetes szám összege háromféleképpen
   
-Jól ismerjük a játék formáját -- először képlettel. Ebben a nyelvben mindig meg kell adni a változók [típusát](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html). A függvények írásmódja ugyanaz, mint a JavaScriptben
+Jól ismerjük a játék menetét -- először képlettel... Ebben a nyelvben mindig meg kell adni a változók [típusát](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html). Ettől TYPEScript a TypeScript. A függvények írásmódja ugyanaz, mint a JavaScriptben és nagyon hasonló a Matlabhoz.
 
 ````typescript
 function elsoNKeplettel(input: number): number {
     return (input * (input + 1)) / 2;
 }
+````
+Ez a program számot eszik és számot ad vissza. (Attól függ, melyiket adtuk oda neki étkezés céljából.) Rekurzív definíció esetén újra meg kell hívni ugyanazt a programot:
 
+````typescript
 function elsoNRekurzivan(input: number): number {
     if (input < 0) 
     { return 0} 
     else 
     { return elsoNRekurzivan(input - 1) + input};
 }
+````
 
+A for loop bonyibb, három új parancs is van benne: for, let, ++
+
+
+````typescript
 function elsoNForLooppal(input: number): number {
     let osszeg: number = 0;
     for (let index: number = 0; index < input + 1; index++) {
@@ -169,6 +184,7 @@ function elsoNForLooppal(input: number): number {
     { return osszeg};
 }
 
+````typescript
 function tetel(input: number): boolean {
     let output: boolean = (elsoNRekurzivan(input) == elsoNKeplettel(input)); 
     { return output};
