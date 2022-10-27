@@ -1,0 +1,16 @@
+body {background-color: #fbfbfd;
+opacity: 0.8;
+background-image: radial-gradient( ellipse farthest-corner at 10px 10px , #f0f1fe, #f0f1fe 50%, #fbfbfd 50%);
+background-size: 10px 10px;}
+
+.cim {color: #070718cc;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: 2cm;}
+
+    .szoveg1 {
+        color: #070718b9;
+        float: none;
+         /* padding: 100px; */
+         margin-left: 2cm;
+      }
