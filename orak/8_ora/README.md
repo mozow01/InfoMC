@@ -119,9 +119,9 @@ Jobb lenne egy ábra is:
     </div>
 ````
 
-## TypeScipt
+## TypeScript
 
-
+A <script></script> tagek közé lehet illeszteni azokat a programokat, amik a html dokumentumban tudnak lefutni. Persze ezt is külön programokkal fogjuk elkészíteni. Olyan nyelvet választottunk, amit értelmesen lehet használni, azaz a változók rendesen be vannak típusokba osztva (ahogy a Matlabban), mosz et a TypeScript lesz, ami a JavaScript típusolt változata. 
 
 
 
