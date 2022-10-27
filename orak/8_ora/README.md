@@ -109,9 +109,7 @@ Jobb lenne egy ábra is:
         <table style="width:600px" >
             <tr>
             <td> <img src="babo_1.jpg" width="100" style="margin-right: 1cm;"> </td>
-            <td>Volt egyszer egy földbe vájt lyuk és abban élt egy babó. Volt egyszer egy földbe vájt lyuk, abban élt egy babó. 
-                Nem volt ez a lyuk rút, mocskos, nedves, teli féregmaradékkal, dohszaggal, sem száraz, csupasz, homokos lyuk, ahol 
-                se leülni, sem enni nemigen lehet: ez babólyuk volt, ami egyértelmű a kényelemmel. 
+            <td>Volt egyszer egy földbe vájt lyuk és abban élt egy babó. Nem volt ez a lyuk rút, mocskos, nedves, teli féregmaradékkal, dohszaggal, sem száraz, csupasz, homokos lyuk, ahol se leülni, sem enni nemigen lehet: ez babólyuk volt, ami egyértelmű a kényelemmel. 
             </td>
               
             </tr>
