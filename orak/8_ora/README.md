@@ -140,6 +140,12 @@ a VS Code-ban tudtok egy terminált nyitni és odanavigálni ````ls````, ````cd 
   
 és ezt már a browser felismeri.
   
+A .js file kódját a <script src="..."> tagben tudjuk jelezni:
+  
+````html
+<script src="tipusok.js"></script>
+````
+  
 ## Első n természetes szám összege háromféleképpen
   
 Jól ismerjük a játék formáját -- először képlettel. Ebben a nyelvben mindig meg kell adni a változók [típusát](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html). A függvények írásmódja ugyanaz, mint a JavaScriptben
