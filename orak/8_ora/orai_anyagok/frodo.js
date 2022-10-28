@@ -12,7 +12,7 @@ function elsoNRekurzivan(input) {
 }
 function elsoNForLooppal(input) {
     var osszeg = 0;
-    for (var index = 0; index < input + 1; index++) {
+    for (var index = 0; index < input + 1;) {
         osszeg = osszeg + index;
     }
     {
