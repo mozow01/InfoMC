@@ -183,6 +183,7 @@ function elsoNForLooppal(input: number): number {
     }
     { return osszeg};
 }
+````
 
 ````typescript
 function tetel(input: number): boolean {
