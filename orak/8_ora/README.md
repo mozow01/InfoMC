@@ -171,13 +171,13 @@ function elsoNRekurzivan(input: number): number {
 }
 ````
 
-A for loop bonyibb, három új parancs is van benne: for, let, ++
+A for loop bonyibb, három új parancs is van benne: for, let
 
 
 ````typescript
 function elsoNForLooppal(input: number): number {
     let osszeg: number = 0;
-    for (let index: number = 0; index < input + 1; index++) {
+    for (let index: number = 0; index < input + 1;) {
         osszeg = osszeg + index ;
         
     }
