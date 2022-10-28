@@ -102,7 +102,7 @@ Szeretném a címet és a szöveget is szépen átformázni:
     </div>
 ````
   
-Jobb lenne egy ábra is:
+Jobb lenne egy képet is mellékelni:
   
 ````html
   <div class="szoveg1">
@@ -137,7 +137,7 @@ Ha nem a File/Open Folder segítségével megnyitott könyvtárban dolgoztok, ak
 
 ````cd ..```` visszalép a főkönyvtárba
 
-Javasolt előre a könyvtárkezelőben egy könyvtárat készíteni, hogy az előbbi lépeketést ne kelljen megcsinálni. Nlam infomc_8 a könyvtár neve. Ha az Open Folderrel megnyitjátok a VS Code-ban a könyvtárat, akkor a Terminál eleve abban a könyvtárban nyílik meg, szóval nem lesz szükésgetek a navigálásra. De jó tudni, hogy megy. Készítetek egy .ts file-t, majd oda írjátok be a program tartalmát. Végül "kompájoljátok" .js-b3, ha ezt a parancsot adjátok ki: 
+Javasolt előre a könyvtárkezelőben egy könyvtárat készíteni, hogy az előbbi lépegetést ne kelljen megcsinálni. Nlam infomc_8 a könyvtár neve. Ha az Open Folderrel megnyitjátok a VS Code-ban a könyvtárat, akkor a Terminál eleve abban a könyvtárban nyílik meg, szóval nem lesz szükésgetek a navigálásra. De jó tudni, hogy megy. Készítetek egy .ts file-t, majd oda írjátok be a program tartalmát. Végül "kompájoljátok" .js-b3, ha ezt a parancsot adjátok ki: 
   
 ````terminal
   tsc programom.ts
