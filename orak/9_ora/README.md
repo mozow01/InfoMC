@@ -6,6 +6,36 @@ Tegyük rendbe a **könyvtárakat!** Elegánsabb a képeket az img, a javascript
 
 A html-be való **kiíratás** egy nagyon egyszerű lehetősége, hogy egy pici js script-et írunk, ami ezt megteszi.
 
+````html
+<h2>Néhány függvényérték</h2>
+
+    <p>Az elsoNKeplettel értékei: </p> 
+````
+nagyon csúnya, de szerencsére van már szép stílusunk, a szoveg1
+
+````html
+<div class="szoveg1">
+<h2>Néhány függvényérték</h2>
+
+    <p>Az elsoNKeplettel értékei: </p> 
+</div>
+````
+Most időzzünk el a következő programon
+
+````html
+<div class="szoveg1">
+<h2>Néhány függvényérték</h2>
+
+    <p>Az elsoNKeplettel értékei: 
+      <div id="output_1"></div>
+    </p>
+
+    <script>
+    document.getElementById("output_1").innerHTML = elsoNKeplettel(10);
+    </script> 
+</div>
+````
+
 
  
 ## Első n természetes szám összege háromféleképpen
