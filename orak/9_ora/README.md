@@ -96,6 +96,43 @@ function tetel(input: number): boolean {
 ## Boole típus
 
 ````typescript
+function elsoNKeplettel(input: number): number {
+    return (input * (input + 1)) / 2;
+}
+
+function elsoNRekurzivan(input: number): number {
+    if (input < 0) 
+    { return 0} 
+    else 
+    { return elsoNRekurzivan(input - 1) + input};
+}
+
+function elsoNForLooppal1(input: number): number {
+    let osszeg = 0;
+
+for (let i = 0; i < input + 1; i++ ) {
+    osszeg += i;
+    // console.log(osszeg);
+    }
+    { return osszeg};
+}
+
+function elsoNForLooppal2(input: number): number {
+    let osszeg = 0;
+
+for (let i = 0; i < input + 1; i++) {
+    osszeg = osszeg + i;
+    // console.log(osszeg);
+    }
+    { return osszeg};
+}
+
+
+function tetel(input: number): boolean {
+    let output: boolean = (elsoNRekurzivan(input) == elsoNKeplettel(input)); 
+    { return output};
+}
+
 function haAkkorKlasszikusan(allitasErtek1:boolean, allitasErtek2: boolean): boolean {
     let output: boolean = (!allitasErtek1 || allitasErtek2 ); 
     { return output};
@@ -136,12 +173,14 @@ function uj({ b1, b2 }: { b1: boolean; b2: boolean; }): boolean {
 }
 
 function sokVagy(l: boolean[]) {
-    var total = false;
+    let total = false;
 
-for (var i = 0, n = l.length; i < n; ++i)
+for (let i = 0, n = l.length; i < n + 1; ++i)
 {
+    console.log(total);
     total = total || l[i];
 }
 {return total}
 }
+
 ````
