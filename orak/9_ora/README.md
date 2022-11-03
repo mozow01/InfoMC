@@ -71,7 +71,7 @@ function elsoNRekurzivan(input: number): number {
 }
 ````
 
-A for loop bonyibb, három új parancs is van benne: for, let
+A for loop bonyibb:
 
 
 ````typescript
