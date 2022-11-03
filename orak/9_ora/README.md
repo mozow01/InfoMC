@@ -134,4 +134,14 @@ function uj({ b1, b2 }: { b1: boolean; b2: boolean; }): boolean {
 
     {return output}  
 }
+
+function sokVagy(l: boolean[]) {
+    var total = false;
+
+for (var i = 0, n = l.length; i < n; ++i)
+{
+    total = total || l[i];
+}
+{return total}
+}
 ````
