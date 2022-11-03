@@ -92,3 +92,46 @@ function tetel(input: number): boolean {
 }
 
 ````
+
+## Boole típus
+
+````html
+function haAkkorKlasszikusan(allitasErtek1:boolean, allitasErtek2: boolean): boolean {
+    let output: boolean = (!allitasErtek1 || allitasErtek2 ); 
+    { return output};
+}
+
+function tagadasKlasszikusan(allitasErtek: boolean): boolean {
+    let output: boolean = (!allitasErtek); 
+    { return output};
+}
+
+function haAkkorTagadasa1(allitasErtek1: boolean, allitasErtek2: boolean) {
+    let output: boolean = 
+        (tagadasKlasszikusan(haAkkorKlasszikusan(allitasErtek1, allitasErtek2))); 
+    { return output};
+}
+
+function haAkkorTagadasa2(allitasErtek1: boolean, allitasErtek2: boolean) {
+    let output: boolean = 
+        (!allitasErtek1 && allitasErtek2); 
+    { return output};
+}
+
+function tetel2(b1: boolean, b2: boolean): boolean {
+    {return (haAkkorTagadasa1(b1,b2) == haAkkorTagadasa2(b1,b2))};
+    
+}
+
+/*
+"Függvény kompozíció"
+*/
+
+function uj({ b1, b2 }: { b1: boolean; b2: boolean; }): boolean {
+
+    var belso = b1 || b2;
+    var output = tagadasKlasszikusan(belso);
+
+    {return output}  
+}
+````
