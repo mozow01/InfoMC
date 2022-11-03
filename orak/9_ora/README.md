@@ -2,7 +2,11 @@
 
 ## Előkészületek
 
-Tegyük rendbe a könyvtárakat! Elegánsabb a képeket az ````img````, a javascript és egyéb programkákat a ````script````, a stípusfájlokat a ````styles```` könyvtárba tenni. ne felejtsük el, hogy a tsc-t a .ts helyéről kell indítani, ezért a cd .. ls, cd könyvtár terminál parancsokra szükségünk lehet.
+Tegyük rendbe a **könyvtárakat!** Elegánsabb a képeket az img, a javascript és egyéb programkákat a script, a stípusfájlokat a styles könyvtárba tenni. Ne felejtsük el, hogy a tsc-t a .ts helyéről kell indítani, ezért a cd .. ls, cd könyvtár terminál parancsokra szükségünk lehet.
+
+A html-be való **kiíratás** egy nagyon egyszerű lehetősége, hogy egy pici js script-et írunk, ami ezt megteszi.
+
+
  
 ## Első n természetes szám összege háromféleképpen
   
