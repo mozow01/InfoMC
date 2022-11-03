@@ -1,4 +1,9 @@
+# Mindenféle típusok
 
+## Előkészületek
+
+Tegyük rendbe a könyvtárakat! Elegánsabb a képeket az ````img````, a javascript és egyéb programkákat a ````script````, a stípusfájlokat a ````styles```` könyvtárba tenni. ne felejtsük el, hogy a tsc-t a .ts helyéről kell indítani, ezért a cd .. ls, cd könyvtár terminál parancsokra szükségünk lehet.
+ 
 ## Első n természetes szám összege háromféleképpen
   
 Jól ismerjük a játék menetét -- először képlettel... Ebben a nyelvben mindig meg kell adni a változók [típusát](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html). Ettől TYPEScript a TypeScript. A függvények írásmódja ugyanaz, mint a JavaScriptben és nagyon hasonló a Matlabhoz.
