@@ -6,7 +6,7 @@ Tegyük rendbe a **könyvtárakat!** Elegánsabb a képeket az img, a javascript
 
 A html-be való **kiíratás** egy nagyon egyszerű lehetősége, hogy egy pici js script-et írunk, ami ezt megteszi.
 
-````
+````html
 <h2>Néhány függvényérték</h2>
 
     <p>Az elsoNKeplettel értékei: </p> 
