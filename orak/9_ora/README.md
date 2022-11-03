@@ -20,7 +20,7 @@ nagyon csúnya, de szerencsére van már szép stílusunk, a szoveg1
     <p>Az elsoNKeplettel értékei: </p> 
 </div>
 ````
-Most időzzünk el a következő programon
+Most időzzünk el a következő programnál:
 
 ````html
 <div class="szoveg1">
@@ -35,6 +35,19 @@ Most időzzünk el a következő programon
     </script> 
 </div>
 ````
+
+Az új parancsok: [getElementById()](https://www.w3schools.com/jsref/met_document_getelementbyid.asp), [document](https://www.w3schools.com/jsref/dom_obj_document.asp) és [innerHTML](https://www.w3schools.com/jsref/prop_html_innerhtml.asp). Ezeket az értékeket mind mind ki is írathatjuk a konzolra!
+
+Vegyük észre, hogy ugyanezt érjük el ezzel:
+
+````html
+    <script>
+    let output_1Tartalma = document.getElementById("output_1");
+    output_1Tartalma.innerHTML = elsoNKeplettel(10)
+    </script>
+````
+
+Az új parancs: [let](https://www.w3schools.com/js/js_let.asp). Ebből három van: let, const, var.
 
 
  
