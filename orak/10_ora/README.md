@@ -1,5 +1,7 @@
 # Típusok folyt.
 
+## Alaptípusok: number, boolean, string
+
 ````typescript
 
 function elsoNKeplettel(input: number): number {
@@ -156,8 +158,11 @@ function uj({ b1, b2 }: { b1: boolean; b2: boolean; }): boolean {
 }
 
 /*
+````
 
-Lista vagy array típus
+# Lista vagy array típus
+
+````typescript
 
 típus[]
 
@@ -245,7 +250,11 @@ function nRandomNevek(hossz: number) {
     }
     { return output }
 }
+````
 
+# Objektumok és új típus definiálása #1
+
+````typescript
 /*
 
 Kicsit másként a
