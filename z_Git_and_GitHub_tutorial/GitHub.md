@@ -33,7 +33,7 @@ git remote -v
 
 És valóban, most láthatjuk is a következő két git parancsot elrejtve
 
-## git push`
+## git push
 
 Ha most megváltoztatjuk a számítógépünkön lévő konyvtárat, mert mondjuk egy file-t hozunk létre ott, programot írunk bele és elmentjük, és ezt a munkánkat szeretnék feltölteni a githun-unkra, akkor ezt a push paranccsal tudjuk megtenni. **Lényeges,** hogy győződjünk meg arról, hogy követésre ki van jelölve minden olyan file, amit fel akarunk tölteni (````git status````) illetve hogy létrehoztuk azt a követési verziót, amit szeretnénk feltölteni (````git commit -m "(ide írjuk a commit fantázianevét)"````).  Ezután adhatjuk ki a  
 
@@ -52,3 +52,16 @@ Ha a gitHub-on történt változás és szeretnék ezt a gépünkre lehúzni, ak
 ````
 git pull origin
 ````
+
+# GitHub oldal
+
+Az index.html az a filenéve, amit a böngésző képes html-ként és oldalként az adott repóban megjeleníteni. Ezért a saját kis oldalunk forrásfile-ját ilyen néven kell betennünk a repóba. 
+
+Ha saját oldalt akarunk, akkor először is engedélyeznünk kell a Settings/Pages -en belül a "GitHub Pages" menőséget :)
+
+Ezek után sokat kell várni, hogy megjelenjen ez:
+
+<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/githubpages.png" height=300>
+
+
+
