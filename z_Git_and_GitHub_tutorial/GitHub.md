@@ -61,7 +61,11 @@ Ha saját oldalt akarunk, akkor először is engedélyeznünk kell a Settings/Pa
 
 Ezek után sokat kell várni, hogy megjelenjen ez:
 
-<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/githubpages.png" height=300>
+<img src="https://github.com/mozow01/InfoMC/blob/main/z_Git_and_GitHub_tutorial/githubpages.png" height=200>
+
+Ha megvan, az ottani linket kimásolva vagy rákattintva a view page-re megtaláljuk a saját oldalunkat.
+
+Ha nincs index, akkor az README.md file fog megjelenni kb. olyanként, mintha html lenne.
 
 
 
