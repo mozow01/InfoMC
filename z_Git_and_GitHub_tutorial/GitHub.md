@@ -33,7 +33,22 @@ git remote -v
 
 És valóban, most láthatjuk is a következő két git parancsot elrejtve
 
-## git push
+## git push`
 
+Ha most megváltoztatjuk a számítógépünkön lévő konyvtárat, mert mondjuk egy file-t hozunk létre ott, programot írunk bele és elmentjük, és ezt a munkánkat szeretnék feltölteni a githun-unkra, akkor ezt a push paranccsal tudjuk megtenni. **Lényeges,** hogy győződjünk meg arról, hogy követésre ki van jelölve minden olyan file, amit fel akarunk tölteni (````git status````) illetve hogy létrehoztuk azt a követési verziót, amit szeretnénk feltölteni (````git commit -m "(ide írjuk a commit fantázianevét)"````).  Ezután adhatjuk ki a  
+
+````terminal
+git push origin main
+````
+
+parancsot. Ez a gépen lévő könyvtárunkat fel fogja tölteni a gutHub-ra. Lényeges, hogy a jelszónál a Pers. Acc. Tokent adjuk meg.
+
+Megjegyzendő, hogy néha "master" névvel illetik a távoli gitHub repó főágát. Ezt a szót ne használjuk, mert már kiment a divatból.
 
 ## git pull
+
+Ha a gitHub-on történt változás és szeretnék ezt a gépünkre lehúzni, akkor ezt a parancsot használjuk:
+
+````
+git pull origin
+````
