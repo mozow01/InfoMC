@@ -1,5 +1,5 @@
-Analysis for Informaticians, Exam 2 Problem Set:
+Analysis for Informaticians, Exam 4 Problem Set:
 
-https://github.com/mozow01/InfoMC/blob/main/misc/inf_2022_23_2.pdf
+https://github.com/mozow01/InfoMC/blob/main/misc/inf_2022_23_4.pdf
 
-Upload link: https://forms.gle/9HCr1rJuSjjv8xC18
+Upload link: https://forms.gle/yLctYfm3N8H3HUZv8
