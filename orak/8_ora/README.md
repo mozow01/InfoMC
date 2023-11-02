@@ -13,9 +13,9 @@ Egy html file lényegében az alábbi strukturájú:
 <html>
   <head>
     <meta charset="utf-8">
-    <!-- ez az elem magáról az egész oldalról mond valamit  -->
+    <!-- ez az elem magáról az egész oldalról mond valamit, hasznos a keresőmotorok, gépek számára  -->
     <title>Frodo Baggins' website</title>
-    <!-- ez nem jelenik meg alapból, de a keresőprogramok olvassák és felhasználják  -->
+    <!-- a böngésző címsorában jelenik meg -->
     <style></style>
     <!-- jó bonyi stílusfile tud itt lenni, de akár be is lehet linkelni a css-t -->
     <link>
@@ -27,7 +27,7 @@ Egy html file lényegében az alábbi strukturájú:
     <div><h1>Zsákos Frodó története</h1> </div>
     <!-- ez egy stílusosztály által megadott stílusú elem tud lenni -->
 
-    <!-- tehát ez kommentel ki szövegeket HTML-ben -->
+    <!-- tehát ez kommentel ki a szövegeket HTML-ben -->
    
   </body>
 </html>
@@ -119,25 +119,25 @@ Jobb lenne egy képet is mellékelni:
 
 ## TypeScript
 
-A <script></script> tagek közé lehet illeszteni azokat a programokat, amik a html dokumentumban tudnak lefutni. Ezek a _JavaScript_ programok. Persze ezt is külön programokkal fogjuk elkészíteni. Olyan nyelvet választottunk, amit értelmesen lehet használni, azaz a változók rendesen be vannak típusokba osztva (ahogy a Matlabban), most ezt a [TypeScript](https://www.typescriptlang.org/) lesz, ami a JavaScript típusolt változata. [Itt](https://youtu.be/L_iKniPK6K0) például találtok egy útmutatót. Alapból ezt az elv: JS + types = TS.
+A <script></script> tagek közé lehet illeszteni azokat a programokat, amik a html dokumentumban tudnak lefutni. Ezek _JavaScript_ programok. Persze ezt is külön programokkal fogjuk elkészíteni. Olyan nyelvet választottunk, amit szemantikailag, kategória hibát nem vétve, értelmesen lehet használni, azaz a változók rendesen be vannak típusokba osztva (ahogy a Matlabban), most ezt a [TypeScript](https://www.typescriptlang.org/) lesz, ami a JavaScript típusolt (gyerekzáras) változata. [Itt](https://youtu.be/L_iKniPK6K0) például találtok egy útmutatót. Alapból az elv: JS + types = TS.
   
 A működtetéséhez kell node (ez a .js file-okat tudja futtatni, de a browser is megteszi) és node-typescript (ami a .ts dolgokat csinálja). A tsc TS kompájlerrel lehet .ts-ből .js-t készíteni.  
   
-Használata: abban a könyvtárban, amiben dolgoztok, elpször készíteni kell egy az olyan file-t, ami a beállításokat tartalamzza, de ez automatikusan lesz:
+Használata: abban a könyvtárban, amiben dolgoztok, először készíteni kell egy az olyan file-t, ami a beállításokat tartalamzza, de ez automatikusan lesz:
 
 ````terminal
   tsc --init 
 ````
   
-Ha nem a File/Open Folder segítségével megnyitott könyvtárban dolgoztok, akkor a  VS Code-ban tudtok egy terminált nyitni és abba a könyvtárba navigálni, ahol dolgozni szeretnétek. Ekkor ````ls````, ````cd konyvtar````, ````cd ..```` utasításokat szoktuk használni. 
+Ha nem a File/Open Folder segítségével megnyitott könyvtárban dolgoztok, akkor a  VS Code-ban tudtok egy terminált nyitni és abba a könyvtárba navigálni, ahol dolgozni szeretnétek. Ekkor (linux esetén) ````ls````, ````cd konyvtar````, ````cd ..```` utasításokat szoktuk használni (win esetén az ls a dir). 
 
-````ls```` listázza a könyvtár tartalmát
+````ls```` listázza a könyvtár tartalmát (dir win-ben)
 
 ````cd konyvtar```` belép a könyvtár nevű könyvtárba
 
 ````cd ..```` visszalép a főkönyvtárba
 
-Javasolt előre a könyvtárkezelőben egy könyvtárat készíteni, hogy az előbbi lépegetést ne kelljen megcsinálni. Nlam infomc_8 a könyvtár neve. Ha az Open Folderrel megnyitjátok a VS Code-ban a könyvtárat, akkor a Terminál eleve abban a könyvtárban nyílik meg, szóval nem lesz szükésgetek a navigálásra. De jó tudni, hogy megy. Készítetek egy .ts file-t, majd oda írjátok be a program tartalmát. Végül "kompájoljátok" .js-b3, ha ezt a parancsot adjátok ki: 
+Javasolt előre a könyvtárkezelőben egy könyvtárat készíteni, hogy az előbbi lépegetést ne kelljen megcsinálni. Nálam InfoMC_2023 a könyvtár neve. Ha az Open Folderrel megnyitjátok a VS Code-ban a könyvtárat, akkor a Terminál eleve abban a könyvtárban nyílik meg, szóval nem lesz szükségetek a navigálásra. De jó tudni, hogy megy. Készítetek egy .ts file-t, majd oda írjátok be a program tartalmát. Végül "kompájoljátok" .js-ba, ha ezt a parancsot adjátok ki: 
   
 ````terminal
   tsc programom.ts
