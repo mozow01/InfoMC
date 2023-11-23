@@ -40,7 +40,7 @@ Ha most megváltoztatjuk a számítógépünkön lévő konyvtárat, mert mondju
 ````terminal
 git push origin main
 ````
-Tehát még egyszer: ne felejtsük el elközeleződni a változtatás mellett: 
+Tehát még egyszer: ne felejtsünk el elköteleződni a változtatás mellett: 
 
 ````terminal
 git add .
