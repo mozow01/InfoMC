@@ -40,6 +40,13 @@ Ha most megváltoztatjuk a számítógépünkön lévő konyvtárat, mert mondju
 ````terminal
 git push origin main
 ````
+Tehát még egyszer: ne felejtsük el elközeleződni a változtatás mellett: 
+
+````terminal
+git add .
+git commit -m "Commit message"
+git push origin main
+````
 
 parancsot. Ez a gépen lévő könyvtárunkat fel fogja tölteni a gutHub-ra. Lényeges, hogy a jelszónál a Pers. Acc. Tokent adjuk meg.
 
