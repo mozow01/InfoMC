@@ -48,7 +48,7 @@ git commit -m "Commit message"
 git push origin main
 ````
 
-parancsot. Ez a gépen lévő könyvtárunkat fel fogja tölteni a gutHub-ra. Lényeges, hogy a jelszónál a Pers. Acc. Tokent adjuk meg.
+parancsot. Ez a gépen lévő könyvtárunkat fel fogja tölteni a gitHub-ra. Lényeges, hogy a jelszónál a Pers. Acc. Tokent adjuk meg.
 
 Megjegyzendő, hogy néha "master" névvel illetik a távoli gitHub repó főágát. Ezt a szót ne használjuk, mert már kiment a divatból.
 
@@ -64,7 +64,7 @@ git pull origin
 
 Az index.html az a filenéve, amit a böngésző képes html-ként és oldalként az adott repóban megjeleníteni. Ezért a saját kis oldalunk forrásfile-ját ilyen néven kell betennünk a repóba. 
 
-Ha saját oldalt akarunk, akkor először is engedélyeznünk kell a Settings/Pages -en belül a "GitHub Pages" menőséget :)
+Ha saját oldalt akarunk, akkor először is engedélyeznünk kell a Settings/Pages -en belül a "GitHub Pages" menőséget :) Ezt úgy tesszük, hogy a None-t Main-re állítjuk az elérési útvonalnál.
 
 Ezek után sokat kell várni, hogy megjelenjen ez:
 
