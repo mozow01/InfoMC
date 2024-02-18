@@ -1,4 +1,4 @@
-Eleje
+**Eleje**
 
 00:00 - 01:05 (lehalkul)
 
@@ -7,7 +7,7 @@ Edith Piaf - La foule
 [https://youtu.be/Fgn8gZHJZzA?si=A4h6itbhvkCAemif](https://youtu.be/Fgn8gZHJZzA?si=A4h6itbhvkCAemif)
 
 
-Közepe
+**Közepe**
 
 00:45 -01:51 (lehalkítva)
 
@@ -16,7 +16,7 @@ Közepe
 https://youtu.be/oCSkn2G-5GY?si=LMscpnZ_4EGMtnWv
 
 
-Vége
+**Vége**
 
 00:00 - 01:04 (lehalkul)
 
