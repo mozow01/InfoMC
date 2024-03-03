@@ -26,6 +26,8 @@ https://youtu.be/a9XMGXuRwhc
 
 https://youtu.be/c5QfXjsoNe4
 
+Borosán Eszter koreográfus és Pintér Szilvia színhaz nevelési szakember és tánc, a színhaz és az allamilag gondozott gyerekek kapcsolatarol, az integralasrol lesz nagyjából szo
+
 -------------------------------------------
 
 **Eleje**
