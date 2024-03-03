@@ -1,5 +1,35 @@
 **Eleje**
 
+00:03 - 00:40 (lehalkítva)
+
+Kovács Kati: Ha legközelebb látlak (Kovács Kati legnagyobb slágerei)
+
+https://youtu.be/WRnxE0EZUWs
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe**
+
+00:00 - 02:40
+
+Clean Bandit - Rather Be (Lyrics) feat. Jess Glynne "if you gave me a chance i would take it"
+
+https://youtu.be/a9XMGXuRwhc
+
+**Vége**
+
+00:00 - 3:00
+
+"The Girl from Ipanema" Astrud Gilberto, João Gilberto and Stan Getz
+
+https://youtu.be/c5QfXjsoNe4
+
+-------------------------------------------
+
+**Eleje**
+
 00:00 - 01:05 (lehalkul)
 
 Edith Piaf - La foule
