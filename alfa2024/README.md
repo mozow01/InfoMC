@@ -112,6 +112,46 @@ Van egy törpehörcsögünk, amelyikről azt gyanítjuk, hogy rendellenesen fogy
 
 ![Csofi](https://github.com/mozow01/Bayes2024/blob/main/1_gyak/horcsi.jpeg)
 
+Csofi súlya egy bizonytalan érték és ezt komolyan kell venni. Két dolgot tudunk, hogy Gauss(22,1) egy egészséges állat súlya, Gauss(17,1) egy betegé. Csofi a mérések alapján 19, 18, 18 g. Ez eléggé leszűkíti a lehetősőgeket. Ha kiszórjuk azokat a szcenáriókat, amelyekben ezek a számok nagyon pici valószínűségűek, akkor egy olyan eloszlást kapunk a súlyára, amelyik közel állhat a valósághoz. 
+
+````javascript
+var data = [{k: 19},
+            {k: 18},
+            {k: 18},
+           ]
+
+var Model = function() {
+  
+  var m = gaussian(22,10)
+  
+  map(function(d){observe(Gaussian({mu: m, sigma: 1}),d.k)},data);
+  
+  var PriorPredictive1 = gaussian(22,1);
+  var PriorPredictive2 = gaussian(17,1);
+  var PosteriorPredictive = gaussian(m,1);
+  
+  return { 
+          PriorPredictive1: PriorPredictive1, 
+          PriorPredictive2: PriorPredictive2, 
+          Posterior: m,
+          PosteriorPredictive: PosteriorPredictive
+         };
+}
+
+var opts = {method: 'SMC', particles: 1000, rejuvSteps: 5}
+
+var output_1 = Infer(opts, Model)
+
+viz.marginals(output_1)
+````
+
+![CsofiPriorPred1](https://github.com/mozow01/Bayes2024/blob/main/1_gyak/a43e23.svg)
+
+![CsofiPriorPred2](https://github.com/mozow01/Bayes2024/blob/main/1_gyak/ab9c7c.svg)
+
+![CsofiProsteriorPred](https://github.com/mozow01/Bayes2024/blob/main/1_gyak/b4c381.svg)
+
+![CsofiPosterior](https://github.com/mozow01/Bayes2024/blob/main/1_gyak/98af7d.svg)
 
 
 
