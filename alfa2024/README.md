@@ -99,14 +99,13 @@ Az adatfelhők is erről árulkodnak.
 
 ## BME kognitív tudományi szakdolgozó:
 
-Igazságtáblázatos logika vagy bizonyítékelmélet?
-
+Igazságtáblázatos logika vagy "bizonyítékelmélet"?
 
 <img src="https://github.com/mozow01/bizcoq2021/blob/main/cog_5.png" width=900>
 
 ## Valószínűségi következtetések
 
-### Mintapélda (törpehörcsi)
+### Csofi (törpehörcsi)
 
 Van egy törpehörcsögünk, amelyikről azt gyanítjuk, hogy rendellenesen fogy. A súlya (tömege :) ) elméletileg egy 22 g közepű 1 g-os szórású normál eloszlás (haranggörbe). El kéne dönteni, hogy orvoshoz kell-e vinni. 
 
@@ -152,6 +151,93 @@ viz.marginals(output_1)
 ![CsofiProsteriorPred](https://github.com/mozow01/Bayes2024/blob/main/1_gyak/b4c381.svg)
 
 ![CsofiPosterior](https://github.com/mozow01/Bayes2024/blob/main/1_gyak/98af7d.svg)
+
+
+## Óvodások
+
+Három különböző csoportban kérdezték meg, hogy a pillangó virág-e, a mért változó értékei a data változó alatt találhatók. A két modellben a priorok a non-informative és a dogmatikus volt. 
+
+### Egyenletes prior
+
+<img src="https://github.com/mozow01/cog_compsci/blob/main/orak/files/binom_1.png" width=500>
+
+````javascript
+var data = [{name: 'napocskas', n:20, k:5},
+            {name: 'holdacskas', n:23, k:8},
+            {name: 'napraforgo', n:19, k:17},
+           ]
+
+var simpleModel = function() {
+  
+  var p = uniform(0,1);
+  
+  map(function(d){observe(Binomial({p: p, n: d.n}), d.k)}, data);
+  
+  var prior = uniform(0,1);
+  
+  // 20 fős csoportokra normálva
+  
+  var predictivePosterior = binomial({p: p, n: 20});
+  
+  var predictivePrior = binomial({p: prior, n: 20});
+  
+  return {Prior: prior, 
+          PredictivePrior: predictivePrior, 
+          Posterior: p, 
+          PredictivePosterior: predictivePosterior};
+}
+
+var opts = {method: 'MCMC', samples: 20000}
+
+var output_1 = Infer(opts, simpleModel)
+
+viz.marginals(output_1)
+````
+
+Tehát az adatot a **map** környezetbe ágyazva illesztjük be a feltételbe.
+
+<img src="https://github.com/mozow01/cog_compsci/blob/main/orak/files/1559f8.svg" height=200><img src="https://github.com/mozow01/cog_compsci/blob/main/orak/files/30810f.svg" height=200><img src="https://github.com/mozow01/cog_compsci/blob/main/orak/files/bab66f.svg" height=200><img src="https://github.com/mozow01/cog_compsci/blob/main/orak/files/d0c66b.svg" height=200>
+
+### Beta prior
+
+
+<img src="https://github.com/mozow01/cog_compsci/blob/main/orak/files/binom_2.png" width=500>
+
+````javascript
+var data = [{name: 'napocskas', n:20, k:5},
+            {name: 'holdacskas', n:23, k:8},
+            {name: 'napraforgo', n:19, k:17},
+           ]
+
+var complexModel = function() {
+  
+  var p = beta(30,90);
+  
+  map(function(d){observe(Binomial({p: p, n: d.n}), d.k)}, data);
+  
+  var prior = beta(30,90);
+  
+    // 20 fős csoportokra normálva
+  
+  var predictivePosterior = binomial({p: p, n: 20});
+  
+  var predictivePrior = binomial({p: prior, n: 20});
+  
+  return {Prior: prior, 
+          PredictivePrior: predictivePrior, 
+          Posterior: p, 
+          PredictivePosterior: predictivePosterior};
+}
+
+var opts = {method: 'MCMC', samples: 20000}
+
+var output_2 = Infer(opts, complexModel)
+
+viz.marginals(output_2)
+````
+
+<img src="https://github.com/mozow01/cog_compsci/blob/main/orak/files/641286.svg" height=200><img src="https://github.com/mozow01/cog_compsci/blob/main/orak/files/6af94a.svg" height=200><img src="https://github.com/mozow01/cog_compsci/blob/main/orak/files/28e8ec.svg" height=200><img src="https://github.com/mozow01/cog_compsci/blob/main/orak/files/af2eb4.svg" height=200>
+
 
 
 
