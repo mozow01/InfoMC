@@ -73,10 +73,7 @@ contradiction.
 auto.
 Qed.
 ````
-
-# A klasszikus vagy a konstruktív logika alapján gondolkodunk-e?
-
-## ELTE matematika tanárszakos szakdolgozóval közöt munka:
+## A klasszikus vagy a konstruktív logika alapján gondolkodunk-e? (ELTE matematika tanárszakos szakdogozóm)
 
 Középiskolásoknál arról érdeklődtünk, hogy érvényesek-e ilyen következtetések?
 
