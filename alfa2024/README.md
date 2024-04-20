@@ -155,7 +155,7 @@ viz.marginals(output_1)
 
 ## Óvodások
 
-Három különböző csoportban kérdezték meg, hogy a pillangó virág-e, a mért változó értékei a data változó alatt találhatók. A két modellben a priorok a non-informative és a dogmatikus volt. 
+Tudjuk, hogy az óvodások még nem feltétlenül tudnak különbséget tenni állat és növény között. Jó példa erre a pillangó. Krédés, hogy megütik-e azt a kompetenciaszintet, hogy meg tudják-e mondani, hogy a pillangó növény vagy másféle élőlény. Három különböző óvodás kiscsoportban kérdezték meg, hogy a pillangó virág-e, a mért változó értékei a data változó alatt találhatók. 
 
 ### Egyenletes prior
 
