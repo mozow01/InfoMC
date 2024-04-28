@@ -1,3 +1,19 @@
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe**
+
+The Pixies - Where Is My Mind (Fight Club song) 3:46
+https://www.youtube.com/watch?v=Y001O8Azj1U
+
+**Vége**
+
+Farkasok dala (2:20)
+
+https://www.youtube.com/watch?v=Nt59aNOOMJ0
+
+--------------------------------------------------------------
 **Eleje**
 
 00:03 - 00:40 (lehalkítva)
