@@ -1,3 +1,27 @@
+## Szezám tárulj!
+(máj. 12.)
+
+**Szignál**
+
+https://youtu.be/zZGgWgy5GwE
+
+**Közepe:**
+00:08 - 01:08 
+
+Believer - Imagine Dragons - Fingerstyle Guitar Cover  Eddie van der Meer
+https://www.youtube.com/watch?v=hXQxSi34GWY&ab_channel=EddievanderMeer
+
+**Vége:**
+00:00 -00:40 (itt lehet már lehúzni)
+
+Swallowtail Jig - Irish Fiddle Tune! Katy Adelson
+https://www.youtube.com/watch?v=2ZxAVUsuE4Y&ab_channel=KatyAdelson
+
+
+
+-----------------------------------------------------------------
+## Két Lámpás
+
 **Szignál:**
 
 https://youtu.be/BsLP3QitmsQ
