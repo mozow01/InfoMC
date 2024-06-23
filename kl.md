@@ -6,6 +6,21 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe**
 
+Ūres Brendon X Lil'Big Rich - Ü R E S | OFFICIAL MUSIC VIDEO
+https://youtu.be/GS5T96QdZ1A
+
+**Vége**
+The Police - Every Breath You Take
+https://youtu.be/6cucosmPj-A
+
+---------------------------------------------------------------------
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe**
+
 Material Girl
 https://www.youtube.com/watch?v=Y001O8Azj1U
 
