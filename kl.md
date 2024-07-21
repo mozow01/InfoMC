@@ -7,10 +7,12 @@ https://youtu.be/BsLP3QitmsQ
 **Közepe**
 
 Ismerős Arcok - Nélküled
+
 https://youtu.be/o-vsRrcDFC8
 
 **Vége**
 a-ha - Minor Earth Major Sky  (0:15-)
+
 https://youtu.be/Awnhonto-8s?si=4qO8kfFFcdfEAnPs
 
 https://youtu.be/Lywz4yAAoW8
