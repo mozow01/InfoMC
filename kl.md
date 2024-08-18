@@ -6,6 +6,28 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe**
 
+Buffy Sainte - Marie - The Circle Game
+
+https://youtu.be/45S9lsiGjKs
+
+**Vége**
+
+Alec Benjamin - If We Have Each Other 
+
+https://youtu.be/tscMSXk_jaQ
+
+Alec Benjamin - Mind Is A Prison
+
+https://youtu.be/Hmw2E7bKJeo
+
+---------------------------------------------------------------------
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe**
+
 Ismerős Arcok - Nélküled
 
 https://youtu.be/o-vsRrcDFC8
