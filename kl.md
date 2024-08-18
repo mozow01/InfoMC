@@ -7,7 +7,8 @@ https://youtu.be/BsLP3QitmsQ
 **Közepe**
 
 The Strawberry Statement (1970)
-Thunderclap Newman - Something In The Air
+
+Thunderclap Newman - Something In The Air (-2:00)
 
 https://youtu.be/Hcd8ZEQgq_E
 
