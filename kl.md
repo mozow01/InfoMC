@@ -6,9 +6,10 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe**
 
-Buffy Sainte - Marie - The Circle Game
+The Strawberry Statement (1970)
+Thunderclap Newman - Something In The Air
 
-https://youtu.be/45S9lsiGjKs
+https://youtu.be/Hcd8ZEQgq_E
 
 **Vége**
 
