@@ -9,7 +9,7 @@ https://youtu.be/BsLP3QitmsQ
 
 BEKVART - FAQ
 
-[https://www.youtube.com/watch?v=nM1YPVvP-7U]
+[https://www.youtube.com/watch?v=nM1YPVvP-7U](https://www.youtube.com/watch?v=nM1YPVvP-7U)
 
 **Vége**
 
