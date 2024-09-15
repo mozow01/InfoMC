@@ -1,21 +1,24 @@
 ## Két Lámpás
 
-
 **Szignál:**
 
 https://youtu.be/BsLP3QitmsQ
 
 **Közepe**
 
-BEKVART - FAQ
-
-[https://www.youtube.com/watch?v=nM1YPVvP-7U](https://www.youtube.com/watch?v=nM1YPVvP-7U)
-
-**Vége**
-
 David Dorůžka/Robert Fischmann/Martin Novák - Málaga - Věčná naděje - Mezinárodní hudební festival
 
 [https://www.youtube.com/watch?v=ieXm-l2pZDo](https://www.youtube.com/watch?v=ieXm-l2pZDo)
+
+Betiltott etűdök archívuma ELŐZETES
+
+[https://www.youtube.com/watch?v=gaxwIL4ojAg](https://www.youtube.com/watch?v=gaxwIL4ojAg)
+
+**Vége**
+
+BEKVART - FAQ
+
+[https://www.youtube.com/watch?v=nM1YPVvP-7U](https://www.youtube.com/watch?v=nM1YPVvP-7U)
 
 ---------------------------------------------------------------------
 
