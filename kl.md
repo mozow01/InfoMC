@@ -6,6 +6,28 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe**
 
+Budapest Nufolk Revolution (József Attila) - Ülni, állni, ölni, halni (OFFICIAL):
+
+https://www.youtube.com/watch?v=iH1VGMrDJo4
+
+**Vége**
+
+Battle Hymn Of The Republic:
+
+https://youtu.be/lIbjFtjBLeQ?si=caFoUriPpz-5y7VH
+
+Alec Benjamin - If We Have Each Other [Official Music Video]
+
+https://youtu.be/tscMSXk_jaQ?si=I-sO8etXv0RMIyp4
+
+--------------------------------
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe**
+
 David Dorůžka/Robert Fischmann/Martin Novák - Málaga - Věčná naděje - Mezinárodní hudební festival
 
 [https://www.youtube.com/watch?v=ieXm-l2pZDo](https://www.youtube.com/watch?v=ieXm-l2pZDo)
