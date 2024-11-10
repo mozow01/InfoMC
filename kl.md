@@ -1,13 +1,16 @@
 ## Két Lámpás
 
 **Szignál:**
+
 https://youtu.be/BsLP3QitmsQ
 
-**Közepe**
+**Közepe:**
+
 Song of That Boy with the Hat (You’ll Be Fine)
 https://youtu.be/4CZiguBVxa8
 
-**Vége**
+**Vége:**
+
 APERTÚRA presents: RICSIMICSINÁJJUNK - Mocskos idők (Formán Bálint)
 https://youtu.be/jzL1DYHlqmM
 
