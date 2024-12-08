@@ -6,6 +6,28 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+Ideális tangó - Hoppál Mihály Band - Likvidátor zenei jegyzetek
+
+https://www.youtube.com/watch?v=BJ6LVxY_QHw
+
+**Vége:**
+
+https://youtu.be/RT-LF7Vhg_M?si=vUdBUhmaeqy0B1W_
+
+The Strange Undoing of Prudencia Hart (National Theatre of Scotland Recording) (2018 Cast Recording)
+
+https://youtu.be/c18441Eh_WE?si=M49etDdTd6hc0Vlh
+
+Kylie Minogue - Can't Get You Out Of My Head
+
+--------------------------------------------------------
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 Song of That Boy with the Hat (You’ll Be Fine)
 
 https://youtu.be/4CZiguBVxa8
