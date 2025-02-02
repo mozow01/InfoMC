@@ -6,6 +6,24 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+Connie Stevens Sixteen Reasons Why I Love You
+
+https://youtu.be/PPbSYJ1LNl0?si=bY9SI51iZBNYseGj
+
+**Vége:**
+
+Trouble - Snake Eyes (From the Return of Twin Peaks, Riley Lynch)
+
+https://youtu.be/1E2hkZBVya4?si=WD9pYBvBpxqb48FW
+
+----------------------------------------------------------
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 Ideális tangó - Hoppál Mihály Band - Likvidátor zenei jegyzetek
 
 https://www.youtube.com/watch?v=BJ6LVxY_QHw
