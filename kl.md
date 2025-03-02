@@ -6,6 +6,26 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+Agents Of Time - The Mirage
+
+https://www.youtube.com/watch?v=NaaXFSKFtAY
+
+**Vége:**
+
+AL045 - Agents Of Time - Midnight Drive
+https://www.youtube.com/watch?v=0FUGnwH2XK0
+
+Agents Of Time - Northern Lights (1:55)
+https://www.youtube.com/watch?v=wS6oa7vaVio
+
+----------------------------------------------------------
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 Connie Stevens Sixteen Reasons Why I Love You
 
 https://youtu.be/PPbSYJ1LNl0?si=bY9SI51iZBNYseGj
