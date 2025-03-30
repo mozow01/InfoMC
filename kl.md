@@ -6,6 +6,24 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+Lana Del Rey - Born To Die
+
+https://youtu.be/Bag1gUxuU0g
+
+**Vége:**
+
+Crawford - Maasai | Royalty Free Music
+
+https://youtu.be/8GQ6FAjKcrE
+
+----------------------------------------------------------
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 Agents Of Time - The Mirage
 
 https://www.youtube.com/watch?v=NaaXFSKFtAY
