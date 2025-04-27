@@ -6,6 +6,25 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+GRIEVE NO MORE (Extended Version) - Patty Gurdy (a song written for "Carnival Row")
+
+https://youtu.be/XvTaHop6f7g?si=Ouxxw5hyhiwBtdki
+
+**Vége:**
+
+Judy Collins - Both Sides Now (Official Audio)
+
+https://youtu.be/8L1UngfqojI?si=bbaMf9nJyPizC8vF
+
+----------------------------------------------------------
+
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 Lana Del Rey - Born To Die
 
 https://youtu.be/Bag1gUxuU0g
