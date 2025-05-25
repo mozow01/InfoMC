@@ -6,6 +6,26 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+The Midnight - Kids (PROFF Dub Remix) Silk Music
+
+2:30
+
+https://www.youtube.com/watch?v=KSEe84-58p4
+
+**Vége:**
+
+Mitski - Francis Forever
+
+https://youtu.be/UMJm_97QXHA?si=vuzwAJiE6KfHOn2Z
+
+----------------------------------------------------------
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 GRIEVE NO MORE (Extended Version) - Patty Gurdy (a song written for "Carnival Row")
 
 https://youtu.be/XvTaHop6f7g?si=Ouxxw5hyhiwBtdki
