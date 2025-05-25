@@ -6,6 +6,10 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+The Midnight - Kids (reprise)
+
+https://www.youtube.com/watch?v=mkfEh_fAgVk
+
 The Midnight - Kids (PROFF Dub Remix) Silk Music
 
 2:00
