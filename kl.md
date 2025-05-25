@@ -8,6 +8,8 @@ https://youtu.be/BsLP3QitmsQ
 
 The Midnight - Kids (reprise)
 
+0:38
+
 https://www.youtube.com/watch?v=mkfEh_fAgVk
 
 The Midnight - Kids (PROFF Dub Remix) Silk Music
