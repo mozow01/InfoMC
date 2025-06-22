@@ -6,6 +6,25 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+Rájátszás: Így akarod ezt végigcsinálni
+
+https://www.youtube.com/watch?v=CmXc1XU4XHY
+
+**Vége:**
+
+David Bowie - Port Of Amsterdam
+
+https://www.youtube.com/watch?v=4uPZIG5BHD4
+
+----------------------------------------------------------
+
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 The Midnight - Kids (reprise)
 
 0:38
