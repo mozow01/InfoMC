@@ -1,3 +1,20 @@
+## Gödel-café
+
+**"Szignál"**
+
+0:00-0:45
+https://www.youtube.com/watch?v=Jep8RzJsk0A
+
+**Közepe**
+
+Zokni 
+https://www.youtube.com/watch?v=jryyRDRJMas&list=RDGMEM6ijAnFTG9nX1G-kbWBUCJAVMjryyRDRJMas&start_radio=1
+
+**Vége**
+
+Uakti - Ponto De Mutação
+https://www.youtube.com/watch?v=NrSOQ73pgbc&list=RDNrSOQ73pgbc&start_radio=1
+
 ## Két Lámpás
 
 **Szignál:**
