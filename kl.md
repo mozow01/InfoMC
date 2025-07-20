@@ -1,3 +1,21 @@
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
+https://www.youtube.com/watch?v=QgdHxgYGSrk
+
+Locomotiv GT - A síneken
+
+**Vége**
+
+https://www.youtube.com/watch?v=20NnEqueVO8
+
+Kaláka: Születésnapomra (József Attila feat. Nyugat)
+
 ## Gödel-café
 
 **"Szignál"**
