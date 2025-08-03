@@ -1,3 +1,22 @@
+## Gödel-café
+
+**"Szignál"**
+
+0:00-0:45
+https://www.youtube.com/watch?v=Jep8RzJsk0A
+
+**Közepe**
+
+Ptah The El Daoud, Turiya & Ramakrishna
+
+https://www.youtube.com/watch?v=jOkBpSItuP8&list=OLAK5uy_l_qZz8lc1Jj3lhNaAe0DnTSU2anhesRsg&index=2
+
+**Vége**
+
+FREEDOM MARCH, Kahil El'Zabar
+
+https://www.youtube.com/watch?v=hs0jX_9dG7U&list=OLAK5uy_k9aR9t5el-EiIfNrfddaqoTZiWxUFIZzY&index=5
+
 ## Két Lámpás
 
 **Szignál:**
