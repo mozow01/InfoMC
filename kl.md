@@ -7,6 +7,25 @@ https://www.youtube.com/watch?v=Jep8RzJsk0A
 
 **Közepe**
 
+Hó Márton és a Jégkorszak - I'm a singer - songwriter
+
+https://www.youtube.com/watch?v=86OMPBh5aiE
+
+**Vége**
+
+Syrma · Rokazer
+
+https://www.youtube.com/watch?v=BelIVqxCXno
+
+## Gödel-café
+
+**"Szignál"**
+
+0:00-0:45
+https://www.youtube.com/watch?v=Jep8RzJsk0A
+
+**Közepe**
+
 Ptah The El Daoud, Turiya & Ramakrishna
 
 https://www.youtube.com/watch?v=jOkBpSItuP8&list=OLAK5uy_l_qZz8lc1Jj3lhNaAe0DnTSU2anhesRsg&index=2
