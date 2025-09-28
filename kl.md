@@ -3,6 +3,26 @@
 **"Szignál"**
 
 0:00-0:45
+
+https://www.youtube.com/watch?v=Jep8RzJsk0A
+
+**Közepe**
+
+Judy Collins - Both Sides Now
+
+https://www.youtube.com/watch?v=8L1UngfqojI
+
+**Vége**
+
+Niamos
+
+https://www.youtube.com/watch?v=3QYtCYSGpuA
+
+## Gödel-café
+
+**"Szignál"**
+
+0:00-0:45
 https://www.youtube.com/watch?v=Jep8RzJsk0A
 
 **Közepe**
