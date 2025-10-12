@@ -1,3 +1,25 @@
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
+Let My People Go - Diamanda Galás - téma
+
+https://www.youtube.com/watch?v=NQq8jzROdEk
+
+B.B. King - Swing Low Sweet Chariot
+
+https://www.youtube.com/watch?v=YOe8BHDxv2g
+
+**Vége:**
+
+Way in the Middle of the Air
+
+https://www.youtube.com/watch?v=AYVSBvJrijk
+
+----------------------------------------------------------
+
 ## Gödel-café
 
 **"Szignál"**
