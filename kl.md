@@ -1,3 +1,29 @@
+## Gödel-café
+
+**"Szignál"**
+
+0:00-0:45
+
+https://www.youtube.com/watch?v=Jep8RzJsk0A
+
+**Közepe**
+
+Bobakrome - P.I.R.X. (feat. Újonc)
+
+https://www.youtube.com/watch?v=6DsU50MfeBI
+
+**Vége**
+
+Prelude - Outer Space - Radar
+
+https://www.youtube.com/watch?v=XHs1ysraqDw&list=PLyhuKbqT8gVGeqcFQ5y0qyE54TZn-XJ5P&index=1
+
+
+----------------------------------------------------------
+
+
+## Két Lámpás
+
 **Szignál:**
 
 https://youtu.be/BsLP3QitmsQ
