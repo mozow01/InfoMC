@@ -1,3 +1,27 @@
+----------------------------------------------------------
+
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
+Amidinine (Tissilawen)
+
+https://youtu.be/mH4BrC0E8js
+
+Albinoise (Damn Whøre)
+
+https://youtu.be/bZP5fW-7T_U
+
+**Vége**
+
+Tamiditine (Tissilawen)
+
+https://youtu.be/AwwXIBd8a4U
+
 ## Gödel-café
 
 **"Szignál"**
