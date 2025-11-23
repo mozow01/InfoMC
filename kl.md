@@ -1,5 +1,24 @@
 ----------------------------------------------------------
 
+## Gödel-café
+
+**"Szignál"**
+
+0:00-0:45
+
+https://www.youtube.com/watch?v=Jep8RzJsk0A
+
+**Közepe**
+
+https://youtu.be/iPRSxwZBmcM?si=00zAT8Npq50WuZfh
+
+**Vége**
+
+https://youtu.be/HDFNGwUEs4I?si=KG-IbCIWQxRGOgg2
+
+
+----------------------------------------------------------
+
 ## Két Lámpás
 
 **Szignál:**
