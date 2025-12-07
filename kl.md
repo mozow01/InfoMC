@@ -1,5 +1,24 @@
 ----------------------------------------------------------
 
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
+Diótörő és Egérkirály - Inci-finci jazz
+
+https://www.youtube.com/watch?v=qAkMl5HCzlw&list=PLB7CBD63E6D3002E0&index=10
+
+**Vége**
+
+https://www.youtube.com/watch?v=zSvcvAHD_zg
+
+
+----------------------------------------------------------
+
 ## Gödel-café
 
 **"Szignál"**
