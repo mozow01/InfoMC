@@ -1,3 +1,23 @@
+## Gödel-café
+
+**"Szignál"**
+
+0:00-0:45
+
+https://www.youtube.com/watch?v=Jep8RzJsk0A
+
+**Közepe**
+
+https://www.youtube.com/watch?v=Awnhonto-8s
+
+a-ha - Minor Earth Major Sky
+
+**Vége**
+
+https://www.youtube.com/watch?v=ADBKdSCbmiM
+
+Röyksopp - What Else Is There ?
+
 ----------------------------------------------------------
 
 ## Két Lámpás
