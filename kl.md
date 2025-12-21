@@ -18,6 +18,12 @@ https://www.youtube.com/watch?v=ADBKdSCbmiM
 
 Röyksopp - What Else Is There ?
 
+vagy 
+
+https://www.youtube.com/watch?v=o36k8upu3Ks
+
+Danny Elfman - What's This? 
+
 ----------------------------------------------------------
 
 ## Két Lámpás
