@@ -1,3 +1,26 @@
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
+https://youtu.be/5e0Qelqp-Cc?si=QyOH0V0nSzjKIWVh
+
+Civilization 4 Soundtrack: Title Screen (Baba Yetu)
+
+https://youtu.be/HmfaB6ML5pw?si=gL7X7R5Gnm4T9AkL
+
+János Vitéz - Zenemű 1979  nyitány
+
+**Vége**
+
+
+
+----------------------------------------------------------
+
+
 ## Gödel-café
 
 **"Szignál"**
