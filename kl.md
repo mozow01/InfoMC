@@ -1,3 +1,28 @@
+## Gödel-café
+
+**"Szignál"**
+
+0:00-0:45
+
+https://www.youtube.com/watch?v=Jep8RzJsk0A
+
+**Közepe**
+
+Whats this? 0:45
+
+https://www.youtube.com/watch?v=0KW0AiVuY0U
+
+Digital Love
+
+https://www.youtube.com/watch?v=4whD6uAryMs
+
+
+**Vége**
+
+Julieta Venegas - Eres para Mí
+
+https://youtu.be/pj2ntDiXJCk?si=GCdkRKc40CnONIiv
+
 ## Két Lámpás
 
 **Szignál:**
