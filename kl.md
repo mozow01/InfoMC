@@ -1,3 +1,26 @@
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
+https://www.youtube.com/watch?v=tzBMVS2MpDM&list=RDtzBMVS2MpDM&start_radio=1
+
+Co Lee, Beton Hofi -- OLYAN GYEREK
+
+https://www.youtube.com/watch?v=qFLhGq0060w
+
+The Weeknd - I Feel It Coming ft. Daft Punk (Official Video)
+
+**Vége**
+
+https://www.youtube.com/watch?v=5NV6Rdv1a3I
+
+Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams, Nile Rodgers
+
+
 ## Gödel-café
 
 **"Szignál"**
