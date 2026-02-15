@@ -1,3 +1,27 @@
+## Gödel-café
+
+**"Szignál"**
+
+0:00-0:45
+
+https://www.youtube.com/watch?v=Jep8RzJsk0A
+
+**Közepe**
+
+https://www.youtube.com/watch?v=f4gODZFkTJg
+
+BENNETT - Vois sur ton chemin (Techno Mix)
+
+https://www.youtube.com/watch?v=bDygS0a6Tgo
+
+Nik Kershaw - The Riddle
+
+**Vége**
+
+https://www.youtube.com/watch?v=82v7lf5YuLk
+
+Love etc. (2018 Remaster)
+
 ## Két Lámpás
 
 **Szignál:**
@@ -19,6 +43,7 @@ The Weeknd - I Feel It Coming ft. Daft Punk (Official Video)
 https://www.youtube.com/watch?v=5NV6Rdv1a3I
 
 Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams, Nile Rodgers
+
 
 
 ## Gödel-café
