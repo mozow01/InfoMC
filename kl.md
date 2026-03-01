@@ -1,3 +1,23 @@
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
+https://www.youtube.com/watch?v=eXM02SnoNIU
+
+Kistér
+
+https://www.youtube.com/watch?v=OlOZMUpfDoY
+
+Presser Gábor, Török Ádám, Novák Péter, Ferenczi György, Szirtes Edina (Mókus) és a RackaJam.
+
+**Vége**
+
+https://www.youtube.com/watch?v=TjIPzyVlK60
+
 ## Gödel-café
 
 **"Szignál"**
