@@ -6,6 +6,28 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+https://www.youtube.com/watch?v=T9UwmRllT9g
+
+Bánki Mihály - Elefántos Dal FINÁLÉ 
+
+https://www.youtube.com/watch?v=nApj_vGn7mw
+
+Water Dances: III) Synchronising
+
+**Vége**
+
+https://www.youtube.com/watch?v=7eTZbqJetvQ&list=PLohYzz4btpaTcfcA9sQQ1KTSGHQW-Q-nL&index=3
+Gattaca -- Michael Nyman
+
+
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 https://www.youtube.com/watch?v=eXM02SnoNIU
 
 Kistér
