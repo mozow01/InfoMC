@@ -6,6 +6,24 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+https://www.youtube.com/watch?v=bGV1xYJFAEI
+
+Brass Against - Killing in the Name (Rage Against the Machine Cover) Ft. Sophia Urista
+
+**Vége**
+
+https://www.youtube.com/watch?v=gBu9O2jqto8
+
+BOMBA ESTÉREO - EL ALMA Y EL CUERPO 
+
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 https://www.youtube.com/watch?v=T9UwmRllT9g
 
 Bánki Mihály - Elefántos Dal FINÁLÉ 
