@@ -6,6 +6,28 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+https://www.youtube.com/watch?v=cmRzZX4dRSw
+
+Tom Waits - Tango Till They're Sore
+
+https://www.youtube.com/watch?v=8WxeG5Xav8o
+
+Amassakoul 'N' 'Ténéré · Tinariwen
+
+**Vége**
+
+https://www.youtube.com/watch?v=_UmOY6ek_Y4
+
+Jan Hammer - Crockett's Theme
+
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 https://www.youtube.com/watch?v=bGV1xYJFAEI
 
 Brass Against - Killing in the Name (Rage Against the Machine Cover) Ft. Sophia Urista
