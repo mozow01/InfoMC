@@ -6,6 +6,27 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+https://youtube.com/watch?v=8x98xVl6c6k&is=ZEmf20zoKgWmV-Pt
+
+Zoë Keating - We Insist
+
+https://youtube.com/watch?v=kJ4s3G7hgR4&is=7p-g-pBhSH07d6Gh
+
+Michael Kiwanuka - Home Again
+
+**Vége**
+
+https://www.youtube.com/watch?v=xWIKQMBBTtk
+
+Gotye - State Of The Art
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 https://www.youtube.com/watch?v=cmRzZX4dRSw
 
 Tom Waits - Tango Till They're Sore
