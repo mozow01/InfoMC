@@ -6,6 +6,22 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+https://youtu.be/7xqOz_YqDxM?is=qDv9Y60WCCWlvAod
+
+https://youtu.be/EEmgEAp8hSI?is=D_XXvVv2y6qt_iKX
+
+**Vége**
+
+https://www.youtube.com/watch?v=v01q01LbWzI
+
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 https://youtube.com/watch?v=8x98xVl6c6k&is=ZEmf20zoKgWmV-Pt
 
 Zoë Keating - We Insist
