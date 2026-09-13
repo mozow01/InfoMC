@@ -6,6 +6,29 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+Fleetwood Mac - Dreams 
+
+https://www.youtube.com/watch?v=h8Aed5oHWrw
+
+Fleetwood Mac - Little Lies 
+
+https://www.youtube.com/watch?v=uCGD9dT12C0
+
+**Vége**
+
+Bruce Springsteen - State Trooper
+
+https://youtu.be/ogwksftPfa8
+
+
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 https://youtu.be/7xqOz_YqDxM?is=qDv9Y60WCCWlvAod
 
 https://youtu.be/EEmgEAp8hSI?is=D_XXvVv2y6qt_iKX
