@@ -6,6 +6,29 @@ https://youtu.be/BsLP3QitmsQ
 
 **Közepe:**
 
+https://www.youtube.com/shorts/mZCE8AY-IgQ
+Tenfiad_dal_Szőgyényi Júlia
+
+https://www.youtube.com/watch?v=qOVmlTBX-t0
+Smile (Remastered) · Jimmy Durante
+
+https://www.youtube.com/watch?v=9URGtOFBCLY
+Hermelin - Szöveg női hangra
+
+**Vége**
+
+https://www.youtube.com/watch?v=ONozM-4o6xY
+Kis vár, nagy kunyhó · Hermelin
+
+
+## Két Lámpás
+
+**Szignál:**
+
+https://youtu.be/BsLP3QitmsQ
+
+**Közepe:**
+
 Fleetwood Mac - Dreams 
 
 https://www.youtube.com/watch?v=h8Aed5oHWrw
